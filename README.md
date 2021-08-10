@@ -1,5 +1,9 @@
 # Job Search
 
+#### My Things
+ - [Javascript Cheat Sheet](https://codepen.io/BriceShatzer/pen/xXggaO)
+ - 
+
 
 ## Check - [Software Engineer](https://www.checkhq.com/company/open-roles?gh_jid=4029901004) 
 - **Remote**
@@ -15,7 +19,7 @@
 - [Engineering Overview](https://www.notion.so/checkhq/Check-Engineering-Overview-0e88fc35a4f243c3b88cae14d22d0a89)  
 6-month, 6-week, 2-week framing  
 Engineering orgs: *Payroll Platform* & *Partner Applications*
-- **[Interview Process](https://www.notion.so/Check-Engineering-Interviews-2f5ad4afdae243f6a7f30afc8e33acc6)**  
+- **[Interview Process](https://www.notion.so/Check-Engineering-Interviews-2f5ad4afdae243f6a7f30afc8e33acc6)**  | Uses [CoderPad](https://app.coderpad.io/launch-sandbox) for coding
   1. <strike>Two 45 min technical interviews with individual engineers.</strike>
 	  - w/ [Shiva Empranthiri](https://www.linkedin.com/in/sempranthiri/) - technical "service implementation"  
 	  - w/ [Bryant Su](https://www.linkedin.com/in/bryantwsu/) in for [Alex DelVecchio](https://www.linkedin.com/in/delvecchioalex/) - Architecture  
