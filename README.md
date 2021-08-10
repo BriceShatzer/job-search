@@ -2,7 +2,7 @@
 
 #### My Things
  - [Javascript Cheat Sheet](https://codepen.io/BriceShatzer/pen/xXggaO)
- - Calendars - <a href="https://hired.com/calendar" target="_blank">Hired</a> | <a href="https://calendar.google.com/calendar/u/0/r/customweek" target="_blank">Google</a>
+ - Calendars - [Hired](https://hired.com/calendar) | [Google](https://calendar.google.com/calendar/u/0/r/customweek)
 
 
 ## Check - [Software Engineer](https://www.checkhq.com/company/open-roles?gh_jid=4029901004) 
