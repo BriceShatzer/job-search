@@ -86,8 +86,7 @@ alternative LinkedIn posts for Senior Software Engineer
 	  - Basic React 
 	  - General Problem Solving
 	  - General Problem Solving
-  3. on-site technical
-	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/)
-  4. on-site resume walk 
-	- w/ [Nathan](https://www.linkedin.com/in/nathanbrasher/)
-  6. Meet upper management  
+  3. 2 hour on-site 
+	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) - technical
+	  - w/ [Nathan](https://www.linkedin.com/in/nathanbrasher/) - Resume walk deep/dive
+  4. Meet upper management 
