@@ -40,6 +40,7 @@ https://www.jpmorgan.com/solutions/treasury-payments/digital-channels/concourse)
   1. <strike>30 min informal technical interviews with individual engineer.</strike>
 	  - w/ [Matthew Simo](https://www.linkedin.com/in/matthewsimo/) - general knowledge questions about html, css, and javascript  
   2. 30 min Zoom interview (tech assesment or second interview?) 
+	  - w/ [Haowei Hsieh](https://www.linkedin.com/in/matthewsimo/) | [https://www.cc.gatech.edu/gvu/people/Phd/Haowei.Hsieh.html]
   3. 2nd interview  
   4. 3rd interview??
 
@@ -66,3 +67,27 @@ alternative LinkedIn posts for Senior Software Engineer
   3. Final Interview (CEO?)   
 
 
+## Valor Labs - Full Stack Engineer
+- **Chicago** - [Hancock Building](https://goo.gl/maps/o1vCnsUbN53GVYDo8) 
+- via Hired
+- 5 engineers building stuff to support a VC org of 70ish folks
+- building internal product -> crunchbase meets pitch book
+- **Tech** 
+	- React
+	- Python
+	- postgreSQL
+	- BigQuery
+	- [Prefect](https://docs.prefect.io/) - [overview](https://www.youtube.com/watch?v=gr4qKgxvszQ)
+	- Kafka
+- **Interview Process**  
+  1. <strike>30 min initial call</strike>
+	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) & [Nathan](https://www.linkedin.com/in/nathanbrasher/)
+  2. 2 hour codility test 
+	  - Basic React 
+	  - General Problem Solving
+	  - General Problem Solving
+  3. on-site technical
+	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/)
+  4. on-site resume walk 
+	- w/ [Nathan](https://www.linkedin.com/in/nathanbrasher/)
+  6. Meet upper management  
