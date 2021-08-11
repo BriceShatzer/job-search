@@ -5,7 +5,7 @@
  - Calendars - [Hired](https://hired.com/calendar) | [Google](https://calendar.google.com/calendar/u/0/r/customweek)
  - [How Programmatic Ads Work](https://docs.google.com/drawings/d/1TBjZTK4sqZsMct6tn-flcWpoH9DS5RAWHVwNvVocBzw/edit)
 
-
+<!--
 ## Check - [Software Engineer](https://www.checkhq.com/company/open-roles?gh_jid=4029901004) 
 - **Remote**
 - Currently 50 w/ a goal of 80 by the end of the year  
@@ -27,7 +27,7 @@ Engineering orgs: *Payroll Platform* & *Partner Applications*
   2. About five 45-60 min technical/values interviews with others on the team, including those in adjacent roles  
   3. An interview with our CEO  
   4. Reference Checks  
-
+-->
 
 ## JP Morgan Chase - [React.JS UI/UX Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210089927/) 
 - **Chicago** - [10 S Dearborn](https://goo.gl/maps/5E83Go6FUoxcgFDC6) (Chase Building)
@@ -48,7 +48,21 @@ alternative LinkedIn posts for Senior Software Engineer
 
 
 
-
-
+## Awesemo - Front End Developer
+- **Chicago** - [WeWork Dearborn & Kinzie](https://g.page/wework-kinzie-street-chicago?share) 
+- 8-10 engineers
+- **Tech** 
+	- React
+	- Node (Javascript)
+	- Material UI
+	- Typescript
+	- Familiarity with Azure PaaS
+	- Azure DevOps
+- **Interview Process**  
+  1. <strike>30 min initial call</strike>
+	  - w/ [Jarrod Godfrey](https://www.linkedin.com/in/jarrod-godfrey-01847914/)
+  2. 1 hour (tech assesment or second interview?) 
+	  - w/ [Mani Sripathi](https://www.linkedin.com/in/manisripathi)
+  3. Final Interview (CEO?)   
 
 
