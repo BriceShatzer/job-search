@@ -3,6 +3,7 @@
 #### My Things
  - [Javascript Cheat Sheet](https://codepen.io/BriceShatzer/pen/xXggaO)
  - Calendars - [Hired](https://hired.com/calendar) | [Google](https://calendar.google.com/calendar/u/0/r/customweek)
+	 - Shareable gCal link - https://calendar.google.com/calendar/u/0?cid=YnJpY2Uuc2hhdHplckBnbWFpbC5jb20
  - [How Programmatic Ads Work](https://docs.google.com/drawings/d/1TBjZTK4sqZsMct6tn-flcWpoH9DS5RAWHVwNvVocBzw/edit)
 
 <!--
@@ -113,6 +114,21 @@ alternative LinkedIn posts for Senior Software Engineer
   2. Take-Home excercise via Codility
   3. 3rd interview??
 
+## [Inspire11](https://www.inspire11.com/about) - [Full Stack Developer](https://boards.greenhouse.io/inspire11/jobs/4148592002?t=34d62c8c2)
+- **Chicago** - [Wacker & State](https://goo.gl/maps/FLhzSGcjsEzrCahg6)
+- via Hired
+- Consultancy/Agency
+- Solution Owner => 5-6 engineers
+- **Tech** 
+	- React/Node 
+	- Java/Spring Boot?
+- **Interview Process**  
+  1. Take-Home JavaScript 	  
+  2. 1hr zoom
+  3. 2hr onsite
+	- 45 min pairing 
+	- 45 min whiteboarding
+	- 30 min behaviorial
 
 
 ## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
