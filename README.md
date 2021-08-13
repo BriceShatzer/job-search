@@ -125,10 +125,10 @@ alternative LinkedIn posts for Senior Software Engineer
 - **Interview Process**  
   1. Take-Home JavaScript 	  
   2. 1hr zoom
-  3. 2hr onsite
-	- 45 min pairing 
-	- 45 min whiteboarding
-	- 30 min behaviorial
+  3. 2hr onsite 
+	  - 45 min pairing 
+	  - 45 min whiteboarding
+	  - 30 min behaviorial
 
 
 ## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
