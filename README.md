@@ -90,3 +90,43 @@ alternative LinkedIn posts for Senior Software Engineer
 	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) - technical
 	  - w/ [Nathan](https://www.linkedin.com/in/nathanbrasher/) - Resume walk deep/dive
   4. Meet upper management 
+
+
+
+## [Unqork](https://www.unqork.com/careers) - Senior Engineer
+- **Remote** - NYC office (old gawker office)
+- via Hired
+- No-Code enterprise software
+- Role is on a team (5-7 engineers) within either the "Create" or "Manage" camp
+- Compensation 
+	- Base: $100 - $140/$150
+	- Performance Bonus?
+	- $2000 stipend
+	- 401k match 50% up to 6%
+	- [ISOs](https://www.investopedia.com/terms/i/iso.asp) 
+- **Tech** 
+	- React (some Angular being phased out) w/ Typescript
+	- Node
+	- GraphQL/MongoDB	
+- **Interview Process**  
+  1. Meet w/ Engineering Manager
+  2. Take-Home excercise via Codility
+  3. 3rd interview??
+
+
+
+## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
+- **Chicago** - Old Post Office
+- Building out Cannabis/Regulated industiries compliance software
+- **Tech** 
+	- React/Node 
+	- PostgreSQL & MongoDB	
+- **Interview Process**  
+  1. <strike>30 min informal chat w/ CTO.</strike>	  
+  2. 90 min exercise 
+  3. 3rd interview??
+- LinkedIn Posts 
+	- [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/2660334949/)
+	- Full Stack Engineer - [1](https://www.linkedin.com/jobs/view/2655113191/) | [2](https://www.linkedin.com/jobs/view/2655110591/)
+	- [Lead Software Engineer](https://www.linkedin.com/jobs/view/2654036655/)
+
