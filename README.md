@@ -156,4 +156,21 @@ alternative LinkedIn posts for Senior Software Engineer
 	- https://hr.gs/glass-mobile
 	- 3 questions
   2. Manager Screen “Meet & Greet” Call for 30 minutes.
-  3. hree-person interview panel, Debugging, Coding & Archit
+  3. three-person interview panel, Debugging, Coding & Architure
+
+
+
+## Koda? - FE Dev
+- **Chicago**
+- JavaScript, Typescript, HTML5, CSS3, SASS
+- C backend - Azure Cloud
+- 20ish people (5 devs)
+- **Interview Process**  
+  1. <strike>Intial Screen</strike>
+  2. Tests - 2 questions each
+	- JavaScript
+	- Typescript
+	- React
+  3. 1hr onsite going through their code
+
+
