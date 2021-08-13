@@ -65,6 +65,7 @@ alternative LinkedIn posts for Senior Software Engineer
 	  - w/ [Jarrod Godfrey](https://www.linkedin.com/in/jarrod-godfrey-01847914/)
   2. 1 hour (tech assesment or second interview?) 
 	  - w/ [Mani Sripathi](https://www.linkedin.com/in/manisripathi)
+	  - w/ [Eddie Lai](https://www.linkedin.com/in/eddie-lai-3161ba27/)
   3. Final Interview (CEO?)   
 
 
@@ -146,3 +147,13 @@ alternative LinkedIn posts for Senior Software Engineer
 	- Full Stack Engineer - [1](https://www.linkedin.com/jobs/view/2655113191/) | [2](https://www.linkedin.com/jobs/view/2655110591/)
 	- [Lead Software Engineer](https://www.linkedin.com/jobs/view/2654036655/)
 
+
+## Walmart Labs - Contract - Senior/Staff Front End (React) Engineers
+- **Remote**
+- $80/hr on W2 - ($166,400)
+- **Interview Process**  
+  1. Hacker Rank Assignment – 60 minutes timed
+	- https://hr.gs/glass-mobile
+	- 3 questions
+  2. Manager Screen “Meet & Greet” Call for 30 minutes.
+  3. hree-person interview panel, Debugging, Coding & Archit
