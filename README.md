@@ -63,7 +63,7 @@ alternative LinkedIn posts for Senior Software Engineer
 - **Interview Process**  
   1. <strike>30 min initial call</strike>
 	  - w/ [Jarrod Godfrey](https://www.linkedin.com/in/jarrod-godfrey-01847914/)
-  2. 1 hour (tech assesment or second interview?) 
+  2. <strike>1 hour (tech assesment or second interview?)</strike> 
 	  - w/ [Mani Sripathi](https://www.linkedin.com/in/manisripathi)
 	  - w/ [Eddie Lai](https://www.linkedin.com/in/eddie-lai-3161ba27/)
   3. Final Interview (CEO?)   
@@ -84,7 +84,7 @@ alternative LinkedIn posts for Senior Software Engineer
 - **Interview Process**  
   1. <strike>30 min initial call</strike>
 	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) & [Nathan](https://www.linkedin.com/in/nathanbrasher/)
-  2. 2 hour codility test 
+  2. 2 hour codility test - [email](https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc)
 	  - Basic React 
 	  - General Problem Solving
 	  - General Problem Solving
@@ -124,12 +124,27 @@ alternative LinkedIn posts for Senior Software Engineer
 	- React/Node 
 	- Java/Spring Boot?
 - **Interview Process**  
-  1. Take-Home JavaScript 	  
+  1. Take-Home JavaScript - [email](https://mail.google.com/mail/u/0/#inbox/FMfcgzGkZkZWZCcggbCXdlFfdzFngVKh) 	  
   2. 1hr zoom
   3. 2hr onsite 
 	  - 45 min pairing 
 	  - 45 min whiteboarding
 	  - 30 min behaviorial
+
+
+## [Shapeways](https://hellofyllo.com/) - Senior Front End
+- **Remote** - Remote
+- via Hired
+- 3D printing
+- $140ish 
+- **Tech** 
+	- Vue.js 
+	- PHP Lamp Stack	
+- **Interview Process**  
+  1. <strike>30 min initial</strike>	  
+  2. Technical Phone Screen 
+  3. In-Depth tech screen (application design)
+  4. Behavioral
 
 
 ## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
@@ -160,7 +175,7 @@ alternative LinkedIn posts for Senior Software Engineer
 
 
 
-## Koda? - FE Dev
+## Koya? - FE Dev
 - **Chicago**
 - JavaScript, Typescript, HTML5, CSS3, SASS
 - C backend - Azure Cloud
@@ -172,5 +187,6 @@ alternative LinkedIn posts for Senior Software Engineer
 	- Typescript
 	- React
   3. 1hr onsite going through their code
+
 
 
