@@ -133,10 +133,13 @@ alternative LinkedIn posts for Senior Software Engineer
 
 
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
-- **Remote** - Remote
+- **Remote** - NYC
 - via Hired
 - 3D printing
-- $140ish 
+- $140ish  
+200 employees,  
+16 engineers across 3ish teams  
+JavaScript - Vue.js | PHP - LAMP  
 - **Tech** 
 	- Vue.js 
 	- PHP Lamp Stack	
@@ -189,4 +192,14 @@ alternative LinkedIn posts for Senior Software Engineer
   3. 1hr onsite going through their code
 
 
+## Ceros - Lead Software Engineer
+- **Remote**
+- No code creative site creator
+- JavaScript w/ HTML Canvas
+- [Job Post](http://labs.ceros.com/jobs/#/job/3082343) 
+
+## Fubo Gaming - Software Engineer, Web/Frontend
+- **Chicago**
+- Online Betting alongside fuboTV
+- [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)
 
