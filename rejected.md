@@ -20,3 +20,25 @@ Engineering orgs: *Payroll Platform* & *Partner Applications*
   2. About five 45-60 min technical/values interviews with others on the team, including those in adjacent roles  
   3. An interview with our CEO  
   4. Reference Checks  
+
+
+
+## JP Morgan Chase - [React.JS UI/UX Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210089927/) 
+- **Chicago** - [10 S Dearborn](https://goo.gl/maps/5E83Go6FUoxcgFDC6) (Chase Building)
+- Building out [Concourse](
+https://www.jpmorgan.com/solutions/treasury-payments/digital-channels/concourse) - Pay-in/Pay-out  B to B to C platform
+- **Tech** 
+	- Java w/ Spring Boot backend
+	- Javascript - React/Angular frontend		
+- **Interview Process**  
+  1. <strike>30 min informal technical interviews with individual engineer.</strike>
+	  - <strike>w/ [Matthew Simo](https://www.linkedin.com/in/matthewsimo/) - general knowledge questions about html, css, and javascript</strike>  
+  2. <strike>30 min Zoom interview (live coding)</strike> 
+	  - <strike>w/ [Haowei Hsieh](https://www.linkedin.com/in/matthewsimo/) | [https://www.cc.gatech.edu/gvu/people/Phd/Haowei.Hsieh.html] </strike>  
+*Regular JS & React portion questions. Wasn't prepared and did poorly w/ React in particular*
+  3. 2nd interview  
+  4. 3rd interview??
+
+alternative LinkedIn posts for Senior Software Engineer  
+[1](https://www.linkedin.com/jobs/view/2673554313/) | [2](https://www.linkedin.com/jobs/view/2672509332/) | [3](https://www.linkedin.com/jobs/view/2673550451/)
+
