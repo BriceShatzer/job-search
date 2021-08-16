@@ -28,7 +28,7 @@
 
 ## Valor Labs - Full Stack Engineer
 - **Chicago** - [Hancock Building](https://goo.gl/maps/o1vCnsUbN53GVYDo8) 
-- via Hired
+- via [Hired](https://hired.com/ivrs/1293734#)
 - 5 engineers building stuff to support a VC org of 70ish folks
 - building internal product -> crunchbase meets pitch book
 - **Tech** 
@@ -54,7 +54,7 @@
 
 ## [Unqork](https://www.unqork.com/careers) - Senior Engineer
 - **Remote** - NYC office (old gawker office)
-- via Hired
+- via [Hired](https://hired.com/ivrs/1296307#)
 - No-Code enterprise software
 - Role is on a team (5-7 engineers) within either the "Create" or "Manage" camp
 - Compensation 
@@ -74,7 +74,7 @@
 
 ## [Inspire11](https://www.inspire11.com/about) - [Full Stack Developer](https://boards.greenhouse.io/inspire11/jobs/4148592002?t=34d62c8c2)
 - **Chicago** - [Wacker & State](https://goo.gl/maps/FLhzSGcjsEzrCahg6)
-- via Hired
+- via [Hired](https://hired.com/ivrs/1292893#)
 - Consultancy/Agency
 - Solution Owner => 5-6 engineers
 - **Tech** 
@@ -91,7 +91,7 @@
 
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
-- via Hired
+- via [Hired](https://hired.com/ivrs/1298440)
 - 3D printing
 - $140ish  
 200 employees,  
@@ -128,8 +128,8 @@ JavaScript - Vue.js | PHP - LAMP
 - $80/hr on W2 - ($166,400)
 - **Interview Process**  
   1. Hacker Rank Assignment – 60 minutes timed
-	- https://hr.gs/glass-mobile
-	- 3 questions
+  		- https://hr.gs/glass-mobile  
+  		- 3 questions  
   2. Manager Screen “Meet & Greet” Call for 30 minutes.
   3. three-person interview panel, Debugging, Coding & Architure
 
@@ -143,14 +143,15 @@ JavaScript - Vue.js | PHP - LAMP
 - **Interview Process**  
   1. <strike>Intial Screen</strike>
   2. Tests - 2 questions each
-	- JavaScript
-	- Typescript
-	- React
+		- JavaScript
+		- Typescript
+		- React
   3. 1hr onsite going through their code
 
 
 ## Ceros - Lead Software Engineer
 - **Remote** - NYC
+- vis [Hired](https://hired.com/ivrs/1300452)
 - No code creative site creator
 - JavaScript w/ HTML Canvas
 - [Job Post](http://labs.ceros.com/jobs/#/job/3082343) 
