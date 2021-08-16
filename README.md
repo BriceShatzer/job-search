@@ -39,9 +39,9 @@ https://www.jpmorgan.com/solutions/treasury-payments/digital-channels/concourse)
 	- Javascript - React/Angular frontend		
 - **Interview Process**  
   1. <strike>30 min informal technical interviews with individual engineer.</strike>
-	  - w/ [Matthew Simo](https://www.linkedin.com/in/matthewsimo/) - general knowledge questions about html, css, and javascript  
-  2. 30 min Zoom interview (tech assesment or second interview?) 
-	  - w/ [Haowei Hsieh](https://www.linkedin.com/in/matthewsimo/) | [https://www.cc.gatech.edu/gvu/people/Phd/Haowei.Hsieh.html]
+	  - <strike>w/ [Matthew Simo](https://www.linkedin.com/in/matthewsimo/) - general knowledge questions about html, css, and javascript</strike>  
+  2. <strike>30 min Zoom interview (live coding)</strike> 
+	  - <strike>w/ [Haowei Hsieh](https://www.linkedin.com/in/matthewsimo/) | [https://www.cc.gatech.edu/gvu/people/Phd/Haowei.Hsieh.html] </strike>
   3. 2nd interview  
   4. 3rd interview??
 
@@ -62,10 +62,10 @@ alternative LinkedIn posts for Senior Software Engineer
 	- Azure DevOps
 - **Interview Process**  
   1. <strike>30 min initial call</strike>
-	  - w/ [Jarrod Godfrey](https://www.linkedin.com/in/jarrod-godfrey-01847914/)
+	  - <strike>w/ [Jarrod Godfrey](https://www.linkedin.com/in/jarrod-godfrey-01847914/)</strike>
   2. <strike>1 hour (tech assesment or second interview?)</strike> 
-	  - w/ [Mani Sripathi](https://www.linkedin.com/in/manisripathi)
-	  - w/ [Eddie Lai](https://www.linkedin.com/in/eddie-lai-3161ba27/)
+	  - <strike>w/ [Mani Sripathi](https://www.linkedin.com/in/manisripathi)</strike>
+	  - <strike>w/ [Eddie Lai](https://www.linkedin.com/in/eddie-lai-3161ba27/)</strike>
   3. Final Interview (CEO?)   
 
 
@@ -83,7 +83,7 @@ alternative LinkedIn posts for Senior Software Engineer
 	- Kafka
 - **Interview Process**  
   1. <strike>30 min initial call</strike>
-	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) & [Nathan](https://www.linkedin.com/in/nathanbrasher/)
+	  - <strike>w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) & [Nathan](https://www.linkedin.com/in/nathanbrasher/)</strike>
   2. 2 hour codility test - [email](https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc)
 	  - Basic React 
 	  - General Problem Solving
