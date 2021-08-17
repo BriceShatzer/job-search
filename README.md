@@ -51,6 +51,22 @@
   4. Meet upper management 
 
 
+## [PatientIQ](https://www.patientiq.io/) - [Senior Front End Engineer](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=ops2cvpehp6#attid%253Datt_17b3a98821f74f3f_0.3_dba56f84_377d8f2f_671cd48f_9bdc6e74_162a8267%25252FPatientiq%252520Senior%252520Front%252520End%252520.docx)
+- **Chicago** - [350 Ontario](https://goo.gl/maps/n8H9idRuvritSE4H9) 
+- via recruiter - Dustin Lain `dustin.lain@motionrecruitment.com`
+- 10 product folks building stuff. Org of 30ish folks.  
+2 Front End | 2 Full Stack | 2 QA | 1 PM | 1 Designer
+- Patient Outcome outreach 
+- **Tech & Process**  
+	- 2 week sprints 
+	- 30/70 support to build-out 
+	- React | Ruby | PostgreSQL
+- **Interview Process**  
+  1. <strike>45 min initial call</strike>
+	  - <strike>w/ [Jimmy Skuros](https://www.linkedin.com/in/jimmy-skuros-81462b26</strike>
+  2. Take Home Code Test
+  3. on-site/Hack Day 
+
 
 ## [Unqork](https://www.unqork.com/careers) - Senior Engineer
 - **Remote** - NYC office (old gawker office)
@@ -151,7 +167,7 @@ JavaScript - Vue.js | PHP - LAMP
 
 ## Ceros - Lead Software Engineer
 - **Remote** - NYC
-- vis [Hired](https://hired.com/ivrs/1300452)
+- via [Hired](https://hired.com/ivrs/1300452)
 - No code creative site creator
 - JavaScript w/ HTML Canvas
 - [Job Post](http://labs.ceros.com/jobs/#/job/3082343) 
