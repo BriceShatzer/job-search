@@ -21,7 +21,15 @@ I shared my frustration with something in a somewhat of a contentious manner, wh
 
 *US Soccer Cover Letter*
 ```
-My name is Brice Shatzer and I've always been someone who has loved and participated in soccer at the youth, collegiate, & adult levels; and has tried to give back through officiating & coaching.
+My name is Brice Shatzer and as someone who has participated in soccer at the youth, collegiate, & adult levels and has tried to give back through officiating & coaching; 
+
+
+I was ecstatic to discover that there was potentially an opportunity to continue to be of service to the game that I love game by utilizing the skills and talents that I have developed over the course of my professional career.
+
+
+=====
+My name is Brice Shatzer and I've always been someone who has loved and participated in soccer at the youth, 
+collegiate, & adult levels; and has tried to give back through officiating & coaching.
 
 When I discovered that there was a possibility to continue to 
 potentially an 
