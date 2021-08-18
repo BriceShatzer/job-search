@@ -1,12 +1,6 @@
 # Responses & Snippets 
 
-```
-Sure, I'd love to chat. My availability on hired is up to date.
-
--Brice
-```
-
-#### Leaving PayPal 
+### Leaving PayPal 
 
 I was let go for violating a company policy.
 
@@ -15,9 +9,24 @@ I shared my frustration with something in a somewhat of a contentious manner, wh
 ...an inappropriate venue. 
 
 
+### Declining Further Interviews  
+
+Thanks for reaching out. After further consideration, I don't believe that this opportunity is a good fit for me at this time. I enjoyed chatting with you and wish y'all nothing but success going forward.
+
+Thanks again,  
+-Brice
+
+
+### Interested on Hired  
+```
+Sure, I'd love to chat. My availability on hired is up to date.
+
+-Brice
+```
+
 ---
 
-#### Scratch Pad
+### Scratch Pad
 
 *US Soccer Cover Letter*
 ```
