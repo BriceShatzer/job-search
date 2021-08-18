@@ -165,13 +165,6 @@ JavaScript - Vue.js | PHP - LAMP
   3. 1hr onsite going through their code
 
 
-## Ceros - Lead Software Engineer
-- **Remote** - NYC
-- via [Hired](https://hired.com/ivrs/1300452)
-- No code creative site creator
-- JavaScript w/ HTML Canvas
-- [Job Post](http://labs.ceros.com/jobs/#/job/3082343) 
-
 ## Fubo Gaming - Software Engineer, Web/Frontend
 - **Chicago**
 - Online Betting alongside fuboTV
