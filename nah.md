@@ -33,3 +33,13 @@ Javascript | React | GraphQL | WebGl | D3 | three.js
       - meet team & founders
 
 *runway through February & no functional prototype*
+
+
+
+## Ceros - Lead Software Engineer
+- **Remote** - NYC
+- via [Hired](https://hired.com/ivrs/1300452)
+- No code creative site creator
+- JavaScript w/ HTML Canvas
+- [Job Post](http://labs.ceros.com/jobs/#/job/3082343)  
+*idk...remote didn't seem interesting*
