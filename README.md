@@ -26,6 +26,15 @@
   3. Final Interview (CEO?)   
 
 
+## Fubo Gaming - Software Engineer, Web/Frontend
+- **Chicago** - [Madison & State](https://goo.gl/maps/A5QXBTCymGrEdbKs7)
+- Reached out via LinkedIn & [Hired](https://hired.com/ivrs/1301063)
+- Online Betting alongside fuboTV
+- [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)  
+- 50 Currently 
+
+
+
 ## Valor Labs - Full Stack Engineer
 - **Chicago** - [Hancock Building](https://goo.gl/maps/o1vCnsUbN53GVYDo8) 
 - via [Hired](https://hired.com/ivrs/1293734#)
@@ -66,27 +75,6 @@
 	  - <strike>w/ [Jimmy Skuros](https://www.linkedin.com/in/jimmy-skuros-81462b26</strike>
   2. Take Home Code Test
   3. on-site/Hack Day 
-
-
-## [Unqork](https://www.unqork.com/careers) - Senior Engineer
-- **Remote** - NYC office (old gawker office)
-- via [Hired](https://hired.com/ivrs/1296307#)
-- No-Code enterprise software
-- Role is on a team (5-7 engineers) within either the "Create" or "Manage" camp
-- Compensation 
-	- Base: $100 - $140/$150
-	- Performance Bonus?
-	- $2000 stipend
-	- 401k match 50% up to 6%
-	- [ISOs](https://www.investopedia.com/terms/i/iso.asp) 
-- **Tech** 
-	- React (some Angular being phased out) w/ Typescript
-	- Node
-	- GraphQL/MongoDB	
-- **Interview Process**  
-  1. Meet w/ Engineering Manager
-  2. Take-Home excercise via Codility
-  3. 3rd interview??
 
 ## [Inspire11](https://www.inspire11.com/about) - [Full Stack Developer](https://boards.greenhouse.io/inspire11/jobs/4148592002?t=34d62c8c2)
 - **Chicago** - [Wacker & State](https://goo.gl/maps/FLhzSGcjsEzrCahg6)
@@ -139,6 +127,27 @@ JavaScript - Vue.js | PHP - LAMP
 	- [Lead Software Engineer](https://www.linkedin.com/jobs/view/2654036655/)
 
 
+## [Unqork](https://www.unqork.com/careers) - Senior Engineer
+- **Remote** - NYC office (old gawker office)
+- via [Hired](https://hired.com/ivrs/1296307#)
+- No-Code enterprise software
+- Role is on a team (5-7 engineers) within either the "Create" or "Manage" camp
+- Compensation 
+	- Base: $100 - $140/$150
+	- Performance Bonus?
+	- $2000 stipend
+	- 401k match 50% up to 6%
+	- [ISOs](https://www.investopedia.com/terms/i/iso.asp) 
+- **Tech** 
+	- React (some Angular being phased out) w/ Typescript
+	- Node
+	- GraphQL/MongoDB	
+- **Interview Process**  
+  1. Meet w/ Engineering Manager
+  2. Take-Home excercise via Codility
+  3. 3rd interview??
+
+
 ## Walmart Labs - Contract - Senior/Staff Front End (React) Engineers
 - **Remote**
 - $80/hr on W2 - ($166,400)
@@ -148,7 +157,6 @@ JavaScript - Vue.js | PHP - LAMP
   		- 3 questions  
   2. Manager Screen “Meet & Greet” Call for 30 minutes.
   3. three-person interview panel, Debugging, Coding & Architure
-
 
 
 ## Koya? - FE Dev
@@ -163,10 +171,4 @@ JavaScript - Vue.js | PHP - LAMP
 		- Typescript
 		- React
   3. 1hr onsite going through their code
-
-
-## Fubo Gaming - Software Engineer, Web/Frontend
-- **Chicago**
-- Online Betting alongside fuboTV
-- [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)
 
