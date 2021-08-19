@@ -112,6 +112,20 @@
 	  - 45 min whiteboarding
 	  - 30 min behaviorial   
 
+## [Halo Investing](https://haloinvesting.com/) - [Senior Front-End Developer](https://tinyurl.com/yx5cu94w)  
+- **Chicago** - [West Loop](https://goo.gl/maps/gYNSfdTkcKQTNNsZ7)  
+- [BuiltInChicago](https://www.builtinchicago.org/company/halo-investing) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Halo-Investing-EI_IE4654832.11,25.htm)
+- via recruiter
+- 50 Employees
+- Do design system work
+- **Interview Process**  
+  1. <strike>30 min initial screen</strike>  
+  2. Take-Home coding 
+  3. In-Depth tech screen w/ PM & Front-End Architect 
+  4. CEO 
+
+
+
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
 - via [Hired](https://hired.com/ivrs/1298440)
