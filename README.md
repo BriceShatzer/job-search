@@ -115,6 +115,7 @@
 ## [Halo Investing](https://haloinvesting.com/) - [Senior Front-End Developer](https://tinyurl.com/yx5cu94w)  
 - **Chicago** - [West Loop](https://goo.gl/maps/gYNSfdTkcKQTNNsZ7)  
 - [BuiltInChicago](https://www.builtinchicago.org/company/halo-investing) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Halo-Investing-EI_IE4654832.11,25.htm)
+- They do [Structured Notes](https://www.youtube.com/watch?v=cBsp0-_6rfo)
 - via recruiter
 - 50 Employees
 - Do design system work
