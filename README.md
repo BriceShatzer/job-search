@@ -33,7 +33,19 @@
 - [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)  
 - 50 Currently 
 
-
+## [Codal](https://codal.com/) - Senior Software Engineer 
+- **Chicago** - Old Post Office
+- via recruiters
+- 45ish in Chicago - 250 Globally (India, UK)
+- $160k range
+- Looking for someone that can be senior and help establish practices
+- Possible Listing? - [Node.js Developer](https://www.linkedin.com/jobs/view/2659499427/)
+- **Interview Process**  
+  1. <strike>30 min initial call</strike>
+	  - <strike>w/ [Hannah Turner](https://www.linkedin.com/in/hannahturner11/)</strike>  
+  2. Technical Interview w/ an Architect (recently started using Codality)  
+	  - [Matthew Wilson](https://www.linkedin.com/in/matthew-wilson-b8451713/)?
+  3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)
 
 ## Valor Labs - Full Stack Engineer
 - **Chicago** - [Hancock Building](https://goo.gl/maps/o1vCnsUbN53GVYDo8) 
