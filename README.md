@@ -28,10 +28,15 @@
 
 ## Fubo Gaming - Software Engineer, Web/Frontend
 - **Chicago** - [Madison & State](https://goo.gl/maps/A5QXBTCymGrEdbKs7)
+- [Glassdoor](https://www.glassdoor.com/Overview/Working-at-FuboTV-EI_IE1006878.11,17.htm)  
 - Reached out via LinkedIn & [Hired](https://hired.com/ivrs/1301063)
 - Online Betting alongside fuboTV
 - [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)  
-- 50 Currently 
+- 50 Currently growing to 85 by end of the year
+- Benefits include [FUBO](https://finance.yahoo.com/quote/FUBO) RSUs  
+- **Interview Process**  
+  1. Tech Screen  
+  2. 45-1hr live coding exercise
 
 ## [Codal](https://codal.com/) - Senior Software Engineer 
 - **Chicago** - Old Post Office
