@@ -35,6 +35,7 @@
 
 ## [Codal](https://codal.com/) - Senior Software Engineer 
 - **Chicago** - Old Post Office
+- [BuiltInChicago](https://www.builtinchicago.org/company/codal) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Codal-EI_IE763540.11,16.htm)  
 - via recruiters
 - 45ish in Chicago - 250 Globally (India, UK)
 - $160k range
@@ -45,7 +46,7 @@
 	  - <strike>w/ [Hannah Turner](https://www.linkedin.com/in/hannahturner11/)</strike>  
   2. Technical Interview w/ an Architect (recently started using Codality)  
 	  - [Matthew Wilson](https://www.linkedin.com/in/matthew-wilson-b8451713/)?
-  3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)
+  3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)  
 
 ## Valor Labs - Full Stack Engineer
 - **Chicago** - [Hancock Building](https://goo.gl/maps/o1vCnsUbN53GVYDo8) 
@@ -73,7 +74,8 @@
 
 
 ## [PatientIQ](https://www.patientiq.io/) - [Senior Front End Engineer](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=ops2cvpehp6#attid%253Datt_17b3a98821f74f3f_0.3_dba56f84_377d8f2f_671cd48f_9bdc6e74_162a8267%25252FPatientiq%252520Senior%252520Front%252520End%252520.docx)
-- **Chicago** - [350 Ontario](https://goo.gl/maps/n8H9idRuvritSE4H9) 
+- **Chicago** - [350 Ontario](https://goo.gl/maps/n8H9idRuvritSE4H9)  
+- [BuiltInChicago](https://www.builtinchicago.org/company/patientiq) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-PatientIQ-EI_IE5653223.11,20.htm) 
 - via recruiter - Dustin Lain `dustin.lain@motionrecruitment.com`
 - 10 product folks building stuff. Org of 30ish folks.  
 2 Front End | 2 Full Stack | 2 QA | 1 PM | 1 Designer
@@ -86,10 +88,11 @@
   1. <strike>45 min initial call</strike>
 	  - <strike>w/ [Jimmy Skuros](https://www.linkedin.com/in/jimmy-skuros-81462b26</strike>
   2. Take Home Code Test
-  3. on-site/Hack Day 
+  3. on-site/Hack Day  
 
 ## [Inspire11](https://www.inspire11.com/about) - [Full Stack Developer](https://boards.greenhouse.io/inspire11/jobs/4148592002?t=34d62c8c2)
 - **Chicago** - [Wacker & State](https://goo.gl/maps/FLhzSGcjsEzrCahg6)
+- [BuiltInChicago](https://www.builtinchicago.org/company/inspire11) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Inspire11-EI_IE1529439.11,20.htm)
 - via [Hired](https://hired.com/ivrs/1292893#)
 - Consultancy/Agency
 - Solution Owner => 5-6 engineers
@@ -102,8 +105,7 @@
   3. 2hr onsite 
 	  - 45 min pairing 
 	  - 45 min whiteboarding
-	  - 30 min behaviorial
-
+	  - 30 min behaviorial   
 
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
@@ -125,6 +127,7 @@ JavaScript - Vue.js | PHP - LAMP
 
 ## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
 - **Chicago** - Old Post Office
+- [BuiltInChicago](https://www.builtinchicago.org/company/fyllo) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Fyllo-EI_IE3248683.11,16.htm)  
 - Building out Cannabis/Regulated industiries compliance software
 - **Tech** 
 	- React/Node 
@@ -136,7 +139,7 @@ JavaScript - Vue.js | PHP - LAMP
 - LinkedIn Posts 
 	- [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/2660334949/)
 	- Full Stack Engineer - [1](https://www.linkedin.com/jobs/view/2655113191/) | [2](https://www.linkedin.com/jobs/view/2655110591/)
-	- [Lead Software Engineer](https://www.linkedin.com/jobs/view/2654036655/)
+	- [Lead Software Engineer](https://www.linkedin.com/jobs/view/2654036655/)  
 
 
 ## [Unqork](https://www.unqork.com/careers) - Senior Engineer
