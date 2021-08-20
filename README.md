@@ -156,9 +156,9 @@ JavaScript - Vue.js | PHP - LAMP
 	- PHP Lamp Stack	
 - **Interview Process**  
   1. <strike>30 min initial</strike>	  
-  2. Technical Phone Screen 
-  3. In-Depth tech screen (application design)
-  4. Behavioral
+  2. <strike>Technical Phone Screen</strike>
+	  - [Reginald (Regi) Mullin](https://www.linkedin.com/in/ramumb)
+  3. 2hr In-Depth Tech Screen (live-coding & application design)
 
 
 ## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
