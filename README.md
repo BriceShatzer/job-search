@@ -157,7 +157,7 @@ JavaScript - Vue.js | PHP - LAMP
 - **Interview Process**  
   1. <strike>30 min initial</strike>	  
   2. <strike>Technical Phone Screen</strike>
-	  - [Reginald (Regi) Mullin](https://www.linkedin.com/in/ramumb)
+	  - <strike>[Reginald (Regi) Mullin](https://www.linkedin.com/in/ramumb)</strike>
   3. 2hr In-Depth Tech Screen (live-coding & application design)
 
 
