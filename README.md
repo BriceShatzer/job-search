@@ -6,7 +6,9 @@
 	 - Shareable gCal link - https://calendar.google.com/calendar/u/0?cid=YnJpY2Uuc2hhdHplckBnbWFpbC5jb20
  - [How Programmatic Ads Work](https://docs.google.com/drawings/d/1TBjZTK4sqZsMct6tn-flcWpoH9DS5RAWHVwNvVocBzw/edit)
 
-
+---
+<!-- [Awesemo]() -->
+---
 ## Awesemo - Front End Developer
 - **Chicago** - [WeWork Dearborn & Kinzie](https://g.page/wework-kinzie-street-chicago?share) 
 - 8-10 engineers
@@ -126,9 +128,9 @@
   4. CEO 
 
 
-
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
+- [BuiltInNYC](https://www.builtinnyc.com/company/shapeways) | [Glassdoor](https://www.glassdoor.com/Salary/Shapeways-Frontend-Engineer-Salaries-E489387_D_KO10,27.htm)
 - via [Hired](https://hired.com/ivrs/1298440)
 - 3D printing
 - $140ish  
