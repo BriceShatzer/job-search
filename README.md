@@ -7,7 +7,21 @@
  - [How Programmatic Ads Work](https://docs.google.com/drawings/d/1TBjZTK4sqZsMct6tn-flcWpoH9DS5RAWHVwNvVocBzw/edit)
 
 ---
-<!-- [Awesemo]() -->
+
+[Awesemo](#awesemo---front-end-developer)  
+[Codal](#codal---senior-software-engineer)  
+[Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
+[Fyllo](#fyllo---senior-full-stack)  
+[Halo Investing](#halo-investing---senior-front-end-developer)  
+[Inspire11](#inspire11---full-stack-developer)  
+[Koya](#koya---fe-dev)  
+[PatientIQ](#patientiq---senior-front-end-engineer)  
+[Shapeways](#shapeways---senior-front-end)  
+[Unqork](#unqork---senior-engineer)  
+[Valor Labs](#valor-labs---full-stack-engineer)  
+[Walmart Labs](#walmart-labs---contract---seniorstaff-front-end-react-engineers)  
+
+
 ---
 ## Awesemo - Front End Developer
 - **Chicago** - [WeWork Dearborn & Kinzie](https://g.page/wework-kinzie-street-chicago?share) 
