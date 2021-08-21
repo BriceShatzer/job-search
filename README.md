@@ -9,7 +9,7 @@
 ---
 
 [Awesemo](#awesemo---front-end-developer)  
-Beyond Finance  
+[Beyond Finance](#beyond-finance---)  
 [Codal](#codal---senior-software-engineer)  
 [Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
 [Fyllo](#fyllo---senior-full-stack)  
