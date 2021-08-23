@@ -117,7 +117,7 @@
 ## Fubo Gaming - Software Engineer, Web/Frontend
 - **Chicago** - [Madison & State](https://goo.gl/maps/A5QXBTCymGrEdbKs7)
 - [Glassdoor](https://www.glassdoor.com/Overview/Working-at-FuboTV-EI_IE1006878.11,17.htm)  
-- Reached out via LinkedIn & [Hired](https://hired.com/ivrs/1301063)
+- Reached out via LinkedIn & [Hired](https://hired.com/ivrs/1301063) -> (Senior Software Engineer, Web/Frontend)
 - Online Betting alongside fuboTV
 - [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)  
 - 50 Currently growing to 85 by end of the year
