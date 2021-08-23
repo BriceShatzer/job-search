@@ -20,10 +20,81 @@
 [Shapeways](#shapeways---senior-front-end)  
 [Unqork](#unqork---senior-engineer)  
 [Valor Labs](#valor-labs---full-stack-engineer)  
-[Walmart Labs](#walmart-labs---contract---seniorstaff-front-end-react-engineers)  
+[Walmart Labs](#walmart-labs---contract---seniorstaff-front-end-react-engineers)   
 
+
+---  
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Company</th>
+            <th>Type</th>
+            <th>Assigned</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Valor Labs</td>
+            <td>Timed - 2 hour Codility</td>
+            <td>8/11</td>
+            <td>
+<a href="https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc">email</a> <br/>
+- Basic React<br/>
+- General Problem Solving<br/>
+            </td>
+        </tr>
+        <tr>
+            <td>Inspire11</td>
+            <td>Take Home</td>
+            <td>8/12</td>
+            <td>
+		    Full Stack/React - <a href="https://mail.google.com/mail/u/0/#search/inspire11/FMfcgzGkZkZWZCcggbCXdlFfdzFngVKh">mail</a>
+		</td>
+        </tr> 
+        <tr>
+            <td>PatientIQ</td>
+            <td>Take Home</td>
+            <td>???</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Walmart Labs</td>
+            <td>Timed - 60min - HackerRank</td>
+            <td>8/11</td>
+            <td>3 questions - https://hr.gs/glass-mobile </td>
+        </tr>
+        <tr>
+            <td>Koya</td>
+            <td>Timed - 60min - TestDome</td>
+            <td>8/18</td>
+            <td>2 questions each for - <a href="https://mail.google.com/mail/u/0/#search/koya/FMfcgzGkZstnzThxtgSLwmGVcgQVJSWS">Mail</a>
+                <ul>
+                    <li>JavaScript</li>
+                    <li>TypeScript</li>
+                    <li>React</li>
+                </ul>
+            </td>
+        </tr> 
+        <tr>
+            <td>Halo Investing</td>
+            <td>Take Home</td>
+            <td>?</td>
+            <td>?</td>
+        </tr>
+        <tr>
+            <td>Fyllo</td>
+            <td>Timed - 90min - Failed</td>
+            <td>8/10</td>
+            <td>Weather Forcast Game</td>
+        </tr>
+    </tbody>
+</table>  
 
 ---
+
 ## Awesemo - Front End Developer
 - **Chicago** - [WeWork Dearborn & Kinzie](https://g.page/wework-kinzie-street-chicago?share) 
 - 8-10 engineers
@@ -67,7 +138,8 @@
   1. <strike>30 min initial call</strike>
 	  - <strike>w/ [Hannah Turner](https://www.linkedin.com/in/hannahturner11/)</strike>  
   2. Technical Interview w/ an Architect (recently started using Codality)  
-	  - [Matthew Wilson](https://www.linkedin.com/in/matthew-wilson-b8451713/)?
+          - [Priyank Patel](https://www.linkedin.com/in/p4priyank/)  
+<!-- 	  - [Matthew Wilson](https://www.linkedin.com/in/matthew-wilson-b8451713/)? -->
   3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)  
 
 ## Valor Labs - Full Stack Engineer
