@@ -2,6 +2,13 @@
 
 ### Leaving PayPal 
 
+
+So PayPal was by far the largest company that I've ever worked for, and I gave it a year.  
+I loved all the folks I worked with, but there were a lot of issues that I really had some issues with.     
+
+--- 
+
+
 I was let go for violating a company policy.
 
 I shared my frustration with something in a somewhat of a contentious manner, which actually wouldn't have been an issue if it wasn't in a slack channel w/ 800 people
