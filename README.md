@@ -13,12 +13,12 @@
 [Codal](#codal---senior-software-engineer)  
 [Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
 [Fyllo](#fyllo---senior-full-stack)  
-Greenhouse Software  
+[Greenhouse Software](#greenhouse-software---senior-full-stack)  
 [Halo Investing](#halo-investing---senior-front-end-developer)  
 [Inspire11](#inspire11---full-stack-developer)  
 [Koya](#koya---fe-dev)  
 [PatientIQ](#patientiq---senior-front-end-engineer)  
-Rewards Network  
+[Rewards Network](#rewards-network---senior-front-end-engineer)  
 [Shapeways](#shapeways---senior-front-end)  
 [Unqork](#unqork---senior-engineer)  
 [Valor Labs](#valor-labs---full-stack-engineer)  
@@ -138,11 +138,10 @@ Rewards Network
 ## Rewards Network - [Senior Front End Engineer](https://jobs.lever.co/rewardsnetwork/cf9ad425-97b8-4d41-92d3-9c6804648b80)
 - **Chicago** - [Madison & Jackson](https://goo.gl/maps/ZtXJxLBfyra72fSb9)  
 - [BuiltInChicago](https://www.builtinchicago.org/company/rewards-network) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Rewards-Network-EI_IE2216.11,26.htm)  
-- 
 - Engineering Org = 50ish 
 - **Tech** 
-	- Vue.js 
-	- PHP Lamp Stack
+	- React or AngularJS transitioning to React
+	- Scala
 - **Interview Process**  
   1. <strike>30 min initial call</strike>
 	  - <strike>w/ [Shawn Steward](https://www.linkedin.com/in/shawnsteward/)</strike>  
