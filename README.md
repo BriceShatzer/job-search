@@ -37,16 +37,6 @@
     </thead>
     <tbody>
         <tr>
-            <td>Valor Labs</td>
-            <td>Timed - 2 hour Codility</td>
-            <td>8/11</td>
-            <td>
-<a href="https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc">email</a> <br/>
-- Basic React<br/>
-- General Problem Solving<br/>
-            </td>
-        </tr>
-        <tr>
             <td>Inspire11</td>
             <td>Take Home</td>
             <td>8/12</td>
@@ -90,6 +80,14 @@
             <td>8/10</td>
             <td>Weather Forcast Game</td>
         </tr>
+<tr>
+	<td><strike>Valor Labs</strike></td>
+	<td><strike>Timed - 2 hour Codility</strike></td>
+	<td><strike>8/11</strike></td>
+        <td><strike>
+<a href="https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc">email</a></strike>
+	</td>
+        </tr>	    
     </tbody>
 </table>  
 
@@ -157,10 +155,9 @@
 - **Interview Process**  
   1. <strike>30 min initial call</strike>
 	  - <strike>w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) & [Nathan](https://www.linkedin.com/in/nathanbrasher/)</strike>
-  2. 2 hour codility test - [email](https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc)
-	  - Basic React 
-	  - General Problem Solving
-	  - General Problem Solving
+  2. <strike>2 hour codility test - [email](https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc)</strike>
+	  - ![Screen Shot 2021-08-23 at 10 10 12 PM](https://user-images.githubusercontent.com/3858622/130549985-590eff80-fe31-4cb3-b5ab-706108cccb15.png)
+
   3. 2 hour on-site 
 	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) - technical
 	  - w/ [Nathan](https://www.linkedin.com/in/nathanbrasher/) - Resume walk deep/dive
