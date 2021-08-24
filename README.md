@@ -20,7 +20,7 @@
 [PatientIQ](#patientiq---senior-front-end-engineer)  
 [Rewards Network](#rewards-network---senior-front-end-engineer)  
 [Shapeways](#shapeways---senior-front-end)  
-Sprout Social  
+[Sprout Social](#sprout-social---senior-front-end-engineer)  
 [Unqork](#unqork---senior-engineer)  
 [Valor Labs](#valor-labs---full-stack-engineer)  
 [Walmart Labs](#walmart-labs---contract---seniorstaff-front-end-react-engineers)   
