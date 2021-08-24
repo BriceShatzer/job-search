@@ -177,7 +177,7 @@
 	- React | Ruby | PostgreSQL
 - **Interview Process**  
   1. <strike>45 min initial call</strike>
-	  - <strike>w/ [Jimmy Skuros](https://www.linkedin.com/in/jimmy-skuros-81462b26</strike>
+	  - <strike>w/ <a href="https://www.linkedin.com/in/jimmy-skuros-81462b26">Jimmy Skuros</a></strike>
   2. Take Home Code Test
   3. on-site/Hack Day  
 
@@ -227,7 +227,7 @@ JavaScript - Vue.js | PHP - LAMP
 - **Interview Process**  
   1. <strike>30 min initial</strike>	  
   2. <strike>Technical Phone Screen</strike>
-	  - <strike>[Reginald (Regi) Mullin](https://www.linkedin.com/in/ramumb)</strike>
+	  - <strike><a href="https://www.linkedin.com/in/ramumb">Reginald (Regi) Mullin</a></strike>
   3. 2hr In-Depth Tech Screen (live-coding & application design)
 
 
