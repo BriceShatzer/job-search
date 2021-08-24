@@ -52,22 +52,10 @@
             <td>Take Home</td>
             <td>8/24</td>
             <td>
-		    <strong>DUE BY SUNDAY 8/29</strong>
+		    <strong>DUE BY SUNDAY 8/29</strong><br />
 		    <a href="https://gitlab.com/rewardsnetwork/coding-challenges/submissions/front-end/Brice-Shatzer/react-coding-challenge">React Coding Challenge</a>
 		</td>
         </tr> 
-	<tr>
-            <td>PatientIQ</td>
-            <td>Take Home</td>
-            <td>???</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Walmart Labs</td>
-            <td>Timed - 60min - HackerRank</td>
-            <td>8/11</td>
-            <td>3 questions - https://hr.gs/glass-mobile </td>
-        </tr>
         <tr>
             <td>Koya</td>
             <td>Timed - 60min - TestDome</td>
@@ -79,26 +67,38 @@
                     <li>React</li>
                 </ul>
             </td>
-        </tr> 
+        </tr> 	    
+        <tr>
+            <td>Walmart Labs</td>
+            <td>Timed - 60min - HackerRank</td>
+            <td>8/11</td>
+            <td>3 questions - https://hr.gs/glass-mobile </td>
+        </tr>
         <tr>
             <td>Halo Investing</td>
             <td>Take Home?? - hackerrank </td>
             <td>8/23</td>
             <td>120min - timed hackerrank?? (<a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzGkZtCjSgTDRKrQJdjQhlmncRJLhttps://mail.google.com/mail/u/0/#inbox/FMfcgzGkZtCjSgTDRKrQJdjQhlmncRJL">email)</td>
         </tr>
+	<tr>
+            <td>PatientIQ</td>
+            <td>Take Home</td>
+            <td>???</td>
+            <td></td>
+        </tr>	    
         <tr>
             <td>Fyllo</td>
             <td>Timed - 90min - Failed</td>
             <td>8/10</td>
             <td>Weather Forcast Game</td>
-        </tr>
-<tr>
-	<td><strike>Valor Labs</strike></td>
-	<td><strike>Timed - 2 hour Codility</strike></td>
-	<td><strike>8/11</strike></td>
-        <td><strike>
-<a href="https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc">email</a></strike>
-	</td>
+        </tr> 
+	<tr>
+		<td><strike>Valor Labs</strike></td>
+		<td><strike>Timed - 2 hour Codility</strike></td>
+		<td><strike>8/11</strike></td>
+        	<td><strike>
+			<a href="https://mail.google.com/mail/u/0/#search/codality/FMfcgzGkZkXNWRFGjhzDpqmGTQcJSjvc">email</a></strike>
+		</td>
         </tr>	    
     </tbody>
 </table>  
