@@ -55,19 +55,7 @@
 		    <strong>DUE BY SUNDAY 8/29</strong><br />
 		    <a href="https://gitlab.com/rewardsnetwork/coding-challenges/submissions/front-end/Brice-Shatzer/react-coding-challenge">React Coding Challenge</a>
 		</td>
-        </tr> 
-        <tr>
-            <td>Koya</td>
-            <td>Timed - 60min - TestDome</td>
-            <td>8/18</td>
-            <td>2 questions each for - <a href="https://mail.google.com/mail/u/0/#search/koya/FMfcgzGkZstnzThxtgSLwmGVcgQVJSWS">Mail</a>
-                <ul>
-                    <li>JavaScript</li>
-                    <li>TypeScript</li>
-                    <li>React</li>
-                </ul>
-            </td>
-        </tr> 	    
+        </tr>     
         <tr>
             <td>Walmart Labs</td>
             <td>Timed - 60min - HackerRank</td>
@@ -85,7 +73,19 @@
             <td>Take Home</td>
             <td>???</td>
             <td></td>
-        </tr>	    
+        </tr>
+        <tr>
+		<td><strike>Koya</strike></td>
+		<td><strike>INDIVIDUALLY TIMED - TestDome</strike></td>
+		<td><strike>8/18</strike></td>
+            	<td><strike>2 questions each for - <a href="https://mail.google.com/mail/u/0/#search/koya/FMfcgzGkZstnzThxtgSLwmGVcgQVJSWS">Mail</a>
+                <ul>
+                    <li>JavaScript</li>
+                    <li>TypeScript</li>
+                    <li>React</li>
+		</ul>
+		</strike></td>
+        </tr> 		    
         <tr>
             <td>Fyllo</td>
             <td>Timed - 90min - Failed</td>
@@ -267,19 +267,6 @@ JavaScript - Vue.js | PHP - LAMP
   3. three-person interview panel, Debugging, Coding & Architure
 
 
-## Koya - FE Dev
-- **Chicago**
-- JavaScript, Typescript, HTML5, CSS3, SASS
-- C backend - Azure Cloud
-- 20ish people (5 devs)
-- **Interview Process**  
-  1. <strike>Intial Screen</strike>
-  2. [Tests - 2 questions each](https://mail.google.com/mail/u/0/#inbox/FMfcgzGkZstnzThxtgSLwmGVcgQVJSWS)  
-		- JavaScript
-		- Typescript
-		- React
-  3. 1hr onsite going through their code
-
 ## [Unqork](https://www.unqork.com/careers) - Senior Engineer
 - **Remote** - NYC office (old gawker office)
 - via [Hired](https://hired.com/ivrs/1296307#)
@@ -360,4 +347,15 @@ JavaScript - Vue.js | PHP - LAMP
 	  - w/ [Andy Dyer](https://www.linkedin.com/in/acdyer/) - technical
 	  - w/ [Nathan](https://www.linkedin.com/in/nathanbrasher/) - Resume walk deep/dive
   4. Meet upper management 
+
+## Koya - FE Dev
+- **Chicago**
+- JavaScript, Typescript, HTML5, CSS3, SASS
+- C backend - Azure Cloud
+- 20ish people (5 devs)
+- **Interview Process**  
+  1. <strike>Intial Screen</strike>
+  2. <strike>Timed testDome test</strike>   
+![Screen Shot 2021-08-25 at 1 00 57 AM](https://user-images.githubusercontent.com/3858622/130735699-385cc544-601b-44c0-b1ee-3b36de437cd6.png)
+  3. 1hr onsite going through their code
 
