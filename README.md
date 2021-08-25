@@ -128,10 +128,8 @@
 - Looking for someone that can be senior and help establish practices
 - Possible Listing? - [Node.js Developer](https://www.linkedin.com/jobs/view/2659499427/)
 - **Interview Process**  
-  1. <strike>30 min initial call</strike>
-	  - <strike>w/ [Hannah Turner](https://www.linkedin.com/in/hannahturner11/)</strike>  
-  2. Technical Interview w/ an Architect (recently started using Codality)
-          - [Priyank Patel](https://www.linkedin.com/in/p4priyank/)  
+  1. <strike>30 min initial call - w/ [Hannah Turner](https://www.linkedin.com/in/hannahturner11/) </strike>
+  2. <strike>Technical Interview w/ an Architect (recently started using Codality) -  w/ [Priyank Patel](https://www.linkedin.com/in/p4priyank/)</strike>
   3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)  
 
 
