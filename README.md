@@ -13,6 +13,7 @@
 [Codal](#codal---senior-software-engineer)  
 [Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
 [Fyllo](#fyllo---senior-full-stack)  
+grainger  
 [Greenhouse Software](#greenhouse-software---senior-full-stack)  
 [Halo Investing](#halo-investing---senior-front-end-developer)  
 [Inspire11](#inspire11---full-stack-developer)  
@@ -148,6 +149,22 @@
   4. Final Stage - Meeting Team  
 
 
+## Grainger - [Senior Software Engineer](https://www.linkedin.com/jobs/view/2642085903/)
+- **Chicago** - Merch Mart
+- [BuiltInChicago](https://www.builtinchicago.org/company/grainger) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Grainger-EI_IE711.11,19.htm)
+- via recruiters
+- **Info**  
+ 	- eCommerce Engineering team  
+ 	- 500ish in engineering org,  
+ 	- 5-8 person teams  
+ 	- mostly agile and/or kanban in 2 week Sprints
+ 	- hours are 9-5	
+- **Interview Process**  
+  1. <strike>30 min initial - w/ [Frontend Lead](https://www.linkedin.com/in/nagaraju-s-4b3975135/)</strike>	  
+  2. ????
+	  - recruiter: "After the first round, they go straight to a panel style final interview."
+	  - lead I interviewed with: "coding challenge"
+
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
 - [BuiltInNYC](https://www.builtinnyc.com/company/shapeways) | [Glassdoor](https://www.glassdoor.com/Salary/Shapeways-Frontend-Engineer-Salaries-E489387_D_KO10,27.htm)
@@ -165,7 +182,6 @@ JavaScript - Vue.js | PHP - LAMP
   2. <strike>Technical Phone Screen</strike>
 	  - <strike><a href="https://www.linkedin.com/in/ramumb">Reginald (Regi) Mullin</a></strike>
   3. 2hr In-Depth Tech Screen (live-coding & application design)
-
 
 ## Sprout Social - [Senior Front End Engineer](https://sproutsocial.com/careers/open-positions/#/3283904/senior-front-end-engineer)  
 - **Chicago** - [Dearborn & Adams](https://goo.gl/maps/zMKuQXgicFubzhKr5)  
