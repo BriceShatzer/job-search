@@ -13,7 +13,7 @@
 [Codal](#codal---senior-software-engineer)  
 [Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
 [Fyllo](#fyllo---senior-full-stack)  
-grainger  
+[Grainger](#grainger---senior-software-engineer)  
 [Greenhouse Software](#greenhouse-software---senior-full-stack)  
 [Halo Investing](#halo-investing---senior-front-end-developer)  
 [Inspire11](#inspire11---full-stack-developer)  
