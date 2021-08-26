@@ -155,32 +155,6 @@
   2. coding thing?
   3. final round?
 
-## [Shapeways](https://hellofyllo.com/) - Senior Front End
-- **Remote** - NYC
-- [BuiltInNYC](https://www.builtinnyc.com/company/shapeways) | [Glassdoor](https://www.glassdoor.com/Salary/Shapeways-Frontend-Engineer-Salaries-E489387_D_KO10,27.htm)
-- via [Hired](https://hired.com/ivrs/1298440)
-- 3D printing
-- $140ish???  
-200 employees,  
-16 engineers across 3ish teams  
-JavaScript - Vue.js | PHP - LAMP  
-- **Interview Process**  
-  1. <strike>30 min initial</strike>	  
-  2. <strike>Technical Phone Screen</strike>
-	  - <strike><a href="https://www.linkedin.com/in/ramumb">Reginald (Regi) Mullin</a></strike>
-  3. <strike>2 hr In-Depth Tech Screen</strike>
-	  - 1 hr Live Coding & Application Design w/ 3 devs ([frontend](https://www.linkedin.com/in/kirillgoltsov/),[senior](https://www.linkedin.com/in/tiago-s%C3%A3o-jos%C3%A9-85a12359/),&[tech lead](https://www.linkedin.com/in/joseph-estefane-54497328/), &   
-	  	- Q1 - [Update Title: Pseudo Code Challenege](https://codepen.io/BriceShatzer/pen/yLXNMeM)
-	  	- Q2 - Define a function that determines if two strings are anagrams. Two strings are anagrams if they are the same letters with the same count for each letter
-	  	- Q3 (bonus, didn't get to)  
-Go to https://www.shapeways.com/materials/platinum  
-How would you create the grid for the content?
-How would you build the sticky nav at the top of the page ? 
-How would you develop the left navigation?
-	  - 30 min w/ [Director of Product](https://www.linkedin.com/in/leontsivin/) on processes & practices
-	  - 30 min w/ [senior dev](https://www.linkedin.com/in/xiao-yang-wang/) on behavioral questions
-
-
 
 ## Sprout Social - [Senior Front End Engineer](https://sproutsocial.com/careers/open-positions/#/3283904/senior-front-end-engineer)  
 - **Chicago** - [Dearborn & Adams](https://goo.gl/maps/zMKuQXgicFubzhKr5)  
@@ -210,6 +184,32 @@ How would you develop the left navigation?
   2. Take-Home coding 
   3. In-Depth tech screen w/ PM & Front-End Architect 
   4. CEO 
+
+## [Shapeways](https://hellofyllo.com/) - Senior Front End
+- **Remote** - NYC
+- [BuiltInNYC](https://www.builtinnyc.com/company/shapeways) | [Glassdoor](https://www.glassdoor.com/Salary/Shapeways-Frontend-Engineer-Salaries-E489387_D_KO10,27.htm)
+- via [Hired](https://hired.com/ivrs/1298440)
+- 3D printing
+- $140ish???  
+200 employees,  
+16 engineers across 3ish teams  
+JavaScript - Vue.js | PHP - LAMP  
+- **Interview Process**  
+  1. <strike>30 min initial</strike>	  
+  2. <strike>Technical Phone Screen</strike>
+	  - <strike><a href="https://www.linkedin.com/in/ramumb">Reginald (Regi) Mullin</a></strike>
+  3. <strike>2 hr In-Depth Tech Screen</strike>
+	  - 1 hr Live Coding & Application Design w/ 3 devs ([frontend](https://www.linkedin.com/in/kirillgoltsov/),[senior](https://www.linkedin.com/in/tiago-s%C3%A3o-jos%C3%A9-85a12359/),&[tech lead](https://www.linkedin.com/in/joseph-estefane-54497328/))   
+	  	- Q1 - [Update Title: Pseudo Code Challenege](https://codepen.io/BriceShatzer/pen/yLXNMeM)
+	  	- Q2 - Define a function that determines if two strings are anagrams. Two strings are anagrams if they are the same letters with the same count for each letter
+	  	- Q3 (bonus, didn't get to)  
+Go to https://www.shapeways.com/materials/platinum  
+How would you create the grid for the content?
+How would you build the sticky nav at the top of the page ? 
+How would you develop the left navigation?
+	  - 30 min w/ [Director of Product](https://www.linkedin.com/in/leontsivin/) on processes & practices
+	  - 30 min w/ [senior dev](https://www.linkedin.com/in/xiao-yang-wang/) on behavioral questions
+
 
 
 ## [Beyond Finance](https://www.beyondfinance.com/) - ???
