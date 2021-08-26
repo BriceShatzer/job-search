@@ -117,13 +117,13 @@
 - Benefits include [FUBO](https://finance.yahoo.com/quote/FUBO) RSUs  
 - **Interview Process**  
   1. <strike>Tech Screen</strike>  
-  2. 45-1hr live coding exercise
+  2. <strike>45-1hr live coding exercise</strike>
 
 
 ## [Codal](https://codal.com/) - Senior Software Engineer 
 - **Chicago** - Old Post Office
 - [BuiltInChicago](https://www.builtinchicago.org/company/codal) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Codal-EI_IE763540.11,16.htm)  
-- via recruiters
+- via recruiters (motion recruitment)
 - 45ish in Chicago - 250 Globally (India, UK)
 - $160k range
 - Looking for someone that can be senior and help establish practices
@@ -134,25 +134,11 @@
   3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)  
 
 
-## Rewards Network - [Senior Front End Engineer](https://jobs.lever.co/rewardsnetwork/cf9ad425-97b8-4d41-92d3-9c6804648b80)
-- **Chicago** - [Madison & Jackson](https://goo.gl/maps/ZtXJxLBfyra72fSb9)  
-- [BuiltInChicago](https://www.builtinchicago.org/company/rewards-network) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Rewards-Network-EI_IE2216.11,26.htm)  
-- Engineering Org = 50ish 
-- **Tech** 
-	- React or AngularJS transitioning to React
-	- Scala
-- **Interview Process**  
-  1. <strike>30 min initial call</strike>
-	  - <strike>w/ [Shawn Steward](https://www.linkedin.com/in/shawnsteward/)</strike>  
-  2. [Coding Challege](https://gitlab.com/rewardsnetwork/coding-challenges/submissions/front-end/Brice-Shatzer/react-coding-challenge) - open merge request  
-  3. Talk through merge request & other technical questions  
-  4. Final Stage - Meeting Team  
-
 
 ## Grainger - [Senior Software Engineer](https://www.linkedin.com/jobs/view/2642085903/)
 - **Chicago** - Merch Mart
 - [BuiltInChicago](https://www.builtinchicago.org/company/grainger) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Grainger-EI_IE711.11,19.htm)
-- via recruiters
+- via recruiters (motion recruitment)
 - **Info**  
  	- eCommerce Engineering team  
  	- 500ish in engineering org,  
@@ -193,6 +179,8 @@ How would you develop the left navigation?
 	  - 30 min w/ [Director of Product](https://www.linkedin.com/in/leontsivin/) on processes & practices
 	  - 30 min w/ [senior dev](https://www.linkedin.com/in/xiao-yang-wang/) on behavioral questions
 
+
+
 ## Sprout Social - [Senior Front End Engineer](https://sproutsocial.com/careers/open-positions/#/3283904/senior-front-end-engineer)  
 - **Chicago** - [Dearborn & Adams](https://goo.gl/maps/zMKuQXgicFubzhKr5)  
 - [BuiltInChicago](https://www.builtinchicago.org/company/sprout-social) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Sprout-Social-EI_IE701678.11,24.htm)  
@@ -205,6 +193,61 @@ How would you develop the left navigation?
   1. Technical Screen/Code Pairing 
   2. Take-Home Test
   3. 3 1/2 hr interview
+
+
+## [Halo Investing](https://haloinvesting.com/) - [Senior Front-End Developer](https://tinyurl.com/yx5cu94w)  
+- **Chicago** - [West Loop](https://goo.gl/maps/gYNSfdTkcKQTNNsZ7)  
+- [BuiltInChicago](https://www.builtinchicago.org/company/halo-investing) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Halo-Investing-EI_IE4654832.11,25.htm)
+- via recruiters (motion recruitment)
+- They do [Structured Notes](https://www.youtube.com/watch?v=cBsp0-_6rfo)
+- via recruiter
+- 50 Employees
+- Do design system work
+- **Interview Process**  
+  1. <strike>30 min initial screen</strike>  
+  2. Take-Home coding 
+  3. In-Depth tech screen w/ PM & Front-End Architect 
+  4. CEO 
+
+
+## [Beyond Finance](https://www.beyondfinance.com/) - ???
+- **Chicago** - [Downtown](https://goo.gl/maps/dQNfT6p8v92kwgx26)
+- [BuiltInChicago](https://www.builtinchicago.org/company/beyond-finance) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Beyond-Finance-EI_IE1510547.11,25.htm)  
+- via recruiters (motion recruitment)
+- Debt relief/Lending  
+- Building out GreenField stuff  
+- **Tech** 
+	- React/Node 
+	- Salesforce, postgres	
+- **Interview Process**  
+  1. 30min w/ Director 
+  2. Live technical - Code Review, maybe live coding?   
+  3. 30min w/ PM
+-  Job Posts? 
+	- [Senior JavaScript Engineer](https://www.builtinchicago.org/job/engineer/senior-javascript-engineer/125547)
+	- [Full Stack Engineer](https://www.linkedin.com/jobs/view/2666493703/)
+
+## Rewards Network - [Senior Front End Engineer](https://jobs.lever.co/rewardsnetwork/cf9ad425-97b8-4d41-92d3-9c6804648b80)
+- **Chicago** - [Madison & Jackson](https://goo.gl/maps/ZtXJxLBfyra72fSb9)  
+- [BuiltInChicago](https://www.builtinchicago.org/company/rewards-network) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Rewards-Network-EI_IE2216.11,26.htm)  
+- via recruiters (motion recruitment)
+- Engineering Org = 50ish 
+- **Tech** 
+	- React or AngularJS transitioning to React
+	- Scala
+- **Interview Process**  
+  1. <strike>30 min initial call</strike>
+	  - <strike>w/ [Shawn Steward](https://www.linkedin.com/in/shawnsteward/)</strike>  
+  2. [Coding Challege](https://gitlab.com/rewardsnetwork/coding-challenges/submissions/front-end/Brice-Shatzer/react-coding-challenge) - open merge request  
+  3. Talk through merge request & other technical questions  
+  4. Final Stage - Meeting Team  
+
+
+## [Greenhouse Software](https://hellofyllo.com/) - Senior Full Stack
+- **Remote** - NYC office
+- via [Hired](https://hired.com/ivrs/1296307#)
+- [BuiltInNYC](https://www.builtinnyc.com/company/greenhouse-software) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Greenhouse-Software-EI_IE657749.11,30.htm)  
+- Hiring & Applicant Tracking Software  
 
 
 ## [PatientIQ](https://www.patientiq.io/) - [Senior Front End Engineer](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=ops2cvpehp6#attid%253Datt_17b3a98821f74f3f_0.3_dba56f84_377d8f2f_671cd48f_9bdc6e74_162a8267%25252FPatientiq%252520Senior%252520Front%252520End%252520.docx)
@@ -240,45 +283,6 @@ How would you develop the left navigation?
 	  - 45 min pairing 
 	  - 45 min whiteboarding
 	  - 30 min behaviorial   
-
-## [Halo Investing](https://haloinvesting.com/) - [Senior Front-End Developer](https://tinyurl.com/yx5cu94w)  
-- **Chicago** - [West Loop](https://goo.gl/maps/gYNSfdTkcKQTNNsZ7)  
-- [BuiltInChicago](https://www.builtinchicago.org/company/halo-investing) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Halo-Investing-EI_IE4654832.11,25.htm)
-- They do [Structured Notes](https://www.youtube.com/watch?v=cBsp0-_6rfo)
-- via recruiter
-- 50 Employees
-- Do design system work
-- **Interview Process**  
-  1. <strike>30 min initial screen</strike>  
-  2. Take-Home coding 
-  3. In-Depth tech screen w/ PM & Front-End Architect 
-  4. CEO 
-
-
-
-## [Beyond Finance](https://www.beyondfinance.com/) - ???
-- **Chicago** - [Downtown](https://goo.gl/maps/dQNfT6p8v92kwgx26)
-- [BuiltInChicago](https://www.builtinchicago.org/company/beyond-finance) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Beyond-Finance-EI_IE1510547.11,25.htm)  
-- Debt relief/Lending  
-- Building out GreenField stuff  
-- **Tech** 
-	- React/Node 
-	- Salesforce, postgres	
-- **Interview Process**  
-  1. 30min w/ Director 
-  2. Live technical - Code Review, maybe live coding?   
-  3. 30min w/ PM
--  Job Posts? 
-	- [Senior JavaScript Engineer](https://www.builtinchicago.org/job/engineer/senior-javascript-engineer/125547)
-	- [Full Stack Engineer](https://www.linkedin.com/jobs/view/2666493703/)
-
-
-## [Greenhouse Software](https://hellofyllo.com/) - Senior Full Stack
-- **Remote** - NYC office
-- via [Hired](https://hired.com/ivrs/1296307#)
-- [BuiltInNYC](https://www.builtinnyc.com/company/greenhouse-software) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Greenhouse-Software-EI_IE657749.11,30.htm)  
-- Hiring & Applicant Tracking Software  
-
 
 ## Walmart Labs - Contract - Senior/Staff Front End (React) Engineers
 - **Remote**
