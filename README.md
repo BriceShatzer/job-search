@@ -10,6 +10,8 @@
 
 [Awesemo](#awesemo---front-end-developer)  
 [Beyond Finance](#beyond-finance---)  
+[Ceros](https://github.com/BriceShatzer/job-search/blob/main/nah.md#ceros---lead-software-engineer)  
+[Check](https://github.com/BriceShatzer/job-search/blob/main/rejected.md#check---software-engineer)   
 [Codal](#codal---senior-software-engineer)  
 [Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
 [Fyllo](#fyllo---senior-full-stack)  
@@ -17,10 +19,13 @@
 [Greenhouse Software](#greenhouse-software---senior-full-stack)  
 [Halo Investing](#halo-investing---senior-front-end-developer)  
 [Inspire11](#inspire11---full-stack-developer)  
+[JP Morgan](https://github.com/BriceShatzer/job-search/blob/main/rejected.md#jp-morgan-chase---reactjs-uiux-developer)  
 [Koya](#koya---fe-dev)  
+[Logikcull](https://github.com/BriceShatzer/job-search/blob/main/nah.md#logikcull---sr-frontend-engineer)  
 [PatientIQ](#patientiq---senior-front-end-engineer)  
 [Rewards Network](#rewards-network---senior-front-end-engineer)  
 [Shapeways](#shapeways---senior-front-end)  
+[Sirona Medical](https://github.com/BriceShatzer/job-search/blob/main/nah.md#sirona-medical---senior-software-engineer-frontend)  
 [Sprout Social](#sprout-social---senior-front-end-engineer)  
 [Unqork](#unqork---senior-engineer)  
 [Valor Labs](#valor-labs---full-stack-engineer)  
@@ -88,10 +93,10 @@
 		</strike></td>
         </tr> 		    
         <tr>
-            <td>Fyllo</td>
-            <td>Timed - 90min - Failed</td>
-            <td>8/10</td>
-            <td>Weather Forcast Game</td>
+		<td><strike>Fyllo</strike></td>
+		<td><strike>Timed - 90min - Failed</strike></td>
+		<td><strike>8/10</strike></td>
+		<td><strike><a href="https://github.com/BriceShatzer/temperature-game/">Weather Forcast Game</a></strike></td>
         </tr> 
 	<tr>
 		<td><strike>Valor Labs</strike></td>
@@ -184,15 +189,16 @@ How would you develop the left navigation?
 ## Sprout Social - [Senior Front End Engineer](https://sproutsocial.com/careers/open-positions/#/3283904/senior-front-end-engineer)  
 - **Chicago** - [Dearborn & Adams](https://goo.gl/maps/zMKuQXgicFubzhKr5)  
 - [BuiltInChicago](https://www.builtinchicago.org/company/sprout-social) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Sprout-Social-EI_IE701678.11,24.htm)  
-- referral from Caiti, also via [Hired](https://hired.com/ivrs/1293282)  
+- referral from Caiti, also they reached out via [Hired](https://hired.com/ivrs/1293282)  
 - uses [Spotify Squad Model](https://www.atlassian.com/agile/agile-at-scale/spotify)
 - **Tech** 
 	- React / Redux 
 	- Python, Django, Java, php
 - **Interview Process**  
-  1. Technical Screen/Code Pairing 
-  2. Take-Home Test
-  3. 3 1/2 hr interview
+  <strike>1. Initial Call</strike>   
+  2. Technical Screen/Code Pairing  
+  3. Take-Home Test  
+  4. 3 1/2 hr interview  
 
 
 ## [Halo Investing](https://haloinvesting.com/) - [Senior Front-End Developer](https://tinyurl.com/yx5cu94w)  
@@ -316,23 +322,8 @@ How would you develop the left navigation?
   3. 3rd interview??
 
 
-## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
-- **Chicago** - Old Post Office
-- [BuiltInChicago](https://www.builtinchicago.org/company/fyllo) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Fyllo-EI_IE3248683.11,16.htm)  
-- Building out Cannabis/Regulated industiries compliance software
-- **Tech** 
-	- React/Node 
-	- PostgreSQL & MongoDB	
-- **Interview Process**  
-  1. <strike>30 min informal chat w/ CTO.</strike>	  
-  2. 90 min exercise 
-  3. 3rd interview??
-- LinkedIn Posts 
-	- [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/2660334949/)
-	- Full Stack Engineer - [1](https://www.linkedin.com/jobs/view/2655113191/) | [2](https://www.linkedin.com/jobs/view/2655110591/)
-	- [Lead Software Engineer](https://www.linkedin.com/jobs/view/2654036655/)  
-
 --- 
+**Probably Rejected**  
 
 ## Awesemo - Front End Developer
 - **Chicago** - [WeWork Dearborn & Kinzie](https://g.page/wework-kinzie-street-chicago?share) 
@@ -387,3 +378,19 @@ How would you develop the left navigation?
 ![Screen Shot 2021-08-25 at 1 00 57 AM](https://user-images.githubusercontent.com/3858622/130735699-385cc544-601b-44c0-b1ee-3b36de437cd6.png)
   3. 1hr onsite going through their code
 
+
+## [Fyllo](https://hellofyllo.com/) - Senior Full Stack
+- **Chicago** - Old Post Office
+- [BuiltInChicago](https://www.builtinchicago.org/company/fyllo) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Fyllo-EI_IE3248683.11,16.htm)  
+- Building out Cannabis/Regulated industiries compliance software
+- **Tech** 
+	- React/Node 
+	- PostgreSQL & MongoDB	
+- **Interview Process**  
+  1. <strike>30 min informal chat w/ CTO.</strike>	  
+  2. 90 min exercise 
+  3. 3rd interview??
+- LinkedIn Posts 
+	- [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/2660334949/)
+	- Full Stack Engineer - [1](https://www.linkedin.com/jobs/view/2655113191/) | [2](https://www.linkedin.com/jobs/view/2655110591/)
+	- [Lead Software Engineer](https://www.linkedin.com/jobs/view/2654036655/)  
