@@ -160,7 +160,7 @@
 - [BuiltInNYC](https://www.builtinnyc.com/company/shapeways) | [Glassdoor](https://www.glassdoor.com/Salary/Shapeways-Frontend-Engineer-Salaries-E489387_D_KO10,27.htm)
 - via [Hired](https://hired.com/ivrs/1298440)
 - 3D printing
-- $140ish?  
+- $140ish???  
 200 employees,  
 16 engineers across 3ish teams  
 JavaScript - Vue.js | PHP - LAMP  
