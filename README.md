@@ -152,22 +152,18 @@
  	- hours are 9-5	
 - **Interview Process**  
   1. <strike>30 min initial - w/ [Frontend Lead](https://www.linkedin.com/in/nagaraju-s-4b3975135/)</strike>	  
-  2. ????
-	  - recruiter: "After the first round, they go straight to a panel style final interview."
-	  - lead I interviewed with: "coding challenge"
+  2. coding thing?
+  3. final round?
 
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
 - [BuiltInNYC](https://www.builtinnyc.com/company/shapeways) | [Glassdoor](https://www.glassdoor.com/Salary/Shapeways-Frontend-Engineer-Salaries-E489387_D_KO10,27.htm)
 - via [Hired](https://hired.com/ivrs/1298440)
 - 3D printing
-- $140ish  
+- $140ish?  
 200 employees,  
 16 engineers across 3ish teams  
 JavaScript - Vue.js | PHP - LAMP  
-- **Tech** 
-	- Vue.js 
-	- PHP Lamp Stack	
 - **Interview Process**  
   1. <strike>30 min initial</strike>	  
   2. <strike>Technical Phone Screen</strike>
@@ -206,7 +202,7 @@ How would you develop the left navigation?
 - [BuiltInChicago](https://www.builtinchicago.org/company/halo-investing) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Halo-Investing-EI_IE4654832.11,25.htm)
 - via recruiters (motion recruitment)
 - They do [Structured Notes](https://www.youtube.com/watch?v=cBsp0-_6rfo)
-- via recruiter
+- via recruiters (motion recruitment)  
 - 50 Employees
 - Do design system work
 - **Interview Process**  
