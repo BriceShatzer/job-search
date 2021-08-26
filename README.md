@@ -181,7 +181,7 @@ JavaScript - Vue.js | PHP - LAMP
   1. <strike>30 min initial</strike>	  
   2. <strike>Technical Phone Screen</strike>
 	  - <strike><a href="https://www.linkedin.com/in/ramumb">Reginald (Regi) Mullin</a></strike>
-  3. 2hr In-Depth Tech Screen (live-coding & application design)
+  3. <strike>2hr In-Depth Tech Screen (live-coding & application design)</strike>
 
 ## Sprout Social - [Senior Front End Engineer](https://sproutsocial.com/careers/open-positions/#/3283904/senior-front-end-engineer)  
 - **Chicago** - [Dearborn & Adams](https://goo.gl/maps/zMKuQXgicFubzhKr5)  
