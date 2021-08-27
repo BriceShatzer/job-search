@@ -245,13 +245,6 @@ How would you develop the left navigation?
   4. Final Stage - Meeting Team  
 
 
-## [Greenhouse Software](https://hellofyllo.com/) - Senior Full Stack
-- **Remote** - NYC office
-- via [Hired](https://hired.com/ivrs/1296307#)
-- [BuiltInNYC](https://www.builtinnyc.com/company/greenhouse-software) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Greenhouse-Software-EI_IE657749.11,30.htm)  
-- Hiring & Applicant Tracking Software  
-
-
 ## [PatientIQ](https://www.patientiq.io/) - [Senior Front End Engineer](https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=ops2cvpehp6#attid%253Datt_17b3a98821f74f3f_0.3_dba56f84_377d8f2f_671cd48f_9bdc6e74_162a8267%25252FPatientiq%252520Senior%252520Front%252520End%252520.docx)
 - **Chicago** - [350 Ontario](https://goo.gl/maps/n8H9idRuvritSE4H9)  
 - [BuiltInChicago](https://www.builtinchicago.org/company/patientiq) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-PatientIQ-EI_IE5653223.11,20.htm) 
@@ -285,6 +278,18 @@ How would you develop the left navigation?
 	  - 45 min pairing 
 	  - 45 min whiteboarding
 	  - 30 min behaviorial   
+
+## [Greenhouse Software](https://hellofyllo.com/) - Senior Full Stack
+- **Remote** - NYC/SF/DEN offices
+- via [Hired](https://hired.com/ivrs/1296307#)
+- [BuiltInNYC](https://www.builtinnyc.com/company/greenhouse-software) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Greenhouse-Software-EI_IE657749.11,30.htm)  
+- Hiring & Applicant Tracking Software 
+- teams: 3-6 engineers + PM + Designer + Data Scientist   
+- **Interview Process**  
+  1. 45-60 min Remote Coding Exercise
+  2. Panel Interview w/ Technical Tests 
+
+
 
 ## Walmart Labs - Contract - Senior/Staff Front End (React) Engineers
 - **Remote**
