@@ -69,10 +69,22 @@
             <td>3 questions - https://hr.gs/glass-mobile </td>
         </tr>
         <tr>
-            <td>Halo Investing</td>
-            <td>Take Home?? - hackerrank </td>
-            <td>8/23</td>
-            <td>120min - timed hackerrank?? (<a href="https://mail.google.com/mail/u/0/#inbox/FMfcgzGkZtCjSgTDRKrQJdjQhlmncRJLhttps://mail.google.com/mail/u/0/#inbox/FMfcgzGkZtCjSgTDRKrQJdjQhlmncRJL">email)</td>
+		<td><strike>Halo Investing</strike></td>
+		<td>ಠ_ಠ <strike> Timed - 120min - HackerRank</strike> ಠ_ಠ</td>
+		<td><strike>8/23</strike></td>
+            <td>
+                <ul>
+                    <li>"Which of these primatives is an object?"</li>
+                    <li>"Range for server error codes?"</li>
+                    <li>HTML,CSS,JS Box Question</li>
+                    <li>Min-Max function generator</li>
+                    <li>Shopping Discount Problem</li>			
+                    <li>Generator for Primes</li>
+		</ul>
+<!--		    
+		    120min - timed hackerrank?? (
+-->
+		</td>
         </tr>
 	<tr>
             <td>PatientIQ</td>
@@ -181,7 +193,7 @@
 - Do design system work
 - **Interview Process**  
   1. <strike>30 min initial screen</strike>  
-  2. Take-Home coding 
+  2. <strike>HackerRank</strike> 
   3. In-Depth tech screen w/ PM & Front-End Architect 
   4. CEO 
 
