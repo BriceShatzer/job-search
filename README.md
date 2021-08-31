@@ -121,6 +121,22 @@
     </tbody>
 </table>  
 
+
+---
+Offers:   
+
+**Shapeways**  
+Title: Sr. Frontend Engineer  
+Salary: $140,000  
+Options: As a Shapeways employee you are entitled to stock options pending board approval, but due to the SPAC we are unable to disclose how many at this time.  
+Reporting to: Sr. Director of Technology  
+Start Date: TBD  
+PTO: 20 days accrued PTO  
+10 company holidays  
+Medical, Dental, Vision tiered coverage  
+Access to One Medical  
+401K  program: SW will match 100% of the first 3% of employee contributions and 50% of the next 2%, for a total 4% employer match. Employees are required to contribute to their 401(k) to get the match.  
+
 ---
 
 
@@ -189,13 +205,15 @@
 - via recruiters (motion recruitment)
 - They do [Structured Notes](https://www.youtube.com/watch?v=cBsp0-_6rfo)
 - via recruiters (motion recruitment)  
-- 50 Employees
-- Do design system work
+- 50 Employees (20ish devs)  
+- 1 Architect & 3/4 folks currently working on the front end   
+- Do design system work  
 - **Interview Process**  
   1. <strike>30 min initial screen</strike>  
   2. <strike>HackerRank</strike> 
-  3. In-Depth tech screen w/ PM & Front-End Architect 
-  4. CEO 
+  3. <strike>In-Depth w/ PM</strike> 
+  4. In-depth tech screen Front-End Architect & other people
+  5. CEO 
 
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
