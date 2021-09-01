@@ -153,20 +153,6 @@ Access to One Medical
   2. <strike>45-1hr live coding exercise</strike>
 
 
-## [Codal](https://codal.com/) - Senior Software Engineer 
-- **Chicago** - Old Post Office
-- [BuiltInChicago](https://www.builtinchicago.org/company/codal) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Codal-EI_IE763540.11,16.htm)  
-- via recruiters (motion recruitment)
-- 45ish in Chicago - 250 Globally (India, UK)
-- $160k range
-- Looking for someone that can be senior and help establish practices
-- Possible Listing? - [Node.js Developer](https://www.linkedin.com/jobs/view/2659499427/)
-- **Interview Process**  
-  1. <strike>30 min initial call - w/ [Hannah Turner](https://www.linkedin.com/in/hannahturner11/) </strike>
-  2. <strike>Technical Interview w/ an Architect (recently started using Codality) -  w/ [Priyank Patel](https://www.linkedin.com/in/p4priyank/)</strike>
-  3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)  
-
-
 
 ## Grainger - [Senior Software Engineer](https://www.linkedin.com/jobs/view/2642085903/)
 - **Chicago** - Merch Mart
@@ -258,6 +244,23 @@ How would you develop the left navigation?
 -  Job Posts? 
 	- [Senior JavaScript Engineer](https://www.builtinchicago.org/job/engineer/senior-javascript-engineer/125547)
 	- [Full Stack Engineer](https://www.linkedin.com/jobs/view/2666493703/)
+
+
+## ?NO LONGER HIRING JS DEVs? - [Codal](https://codal.com/) - Senior Software Engineer 
+- **Chicago** - Old Post Office
+- [BuiltInChicago](https://www.builtinchicago.org/company/codal) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Codal-EI_IE763540.11,16.htm)  
+- via recruiters (motion recruitment)
+- 45ish in Chicago - 250 Globally (India, UK)
+- $160k range
+- Looking for someone that can be senior and help establish practices
+- Possible Listing? - [Node.js Developer](https://www.linkedin.com/jobs/view/2659499427/)
+- **Interview Process**  
+  1. <strike>30 min initial call - w/ [Hannah Turner](https://www.linkedin.com/in/hannahturner11/) </strike>
+  2. <strike>Technical Interview w/ an Architect (recently started using Codality) -  w/ [Priyank Patel](https://www.linkedin.com/in/p4priyank/)</strike>
+  3. Interview w/ Director of Delivery - [Stephen Yi?](https://www.linkedin.com/in/stephenyi/)  
+
+
+
 
 ## Rewards Network - [Senior Front End Engineer](https://jobs.lever.co/rewardsnetwork/cf9ad425-97b8-4d41-92d3-9c6804648b80)
 - **Chicago** - [Madison & Jackson](https://goo.gl/maps/ZtXJxLBfyra72fSb9)  
