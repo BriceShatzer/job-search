@@ -12,7 +12,7 @@
 [Beyond Finance](#beyond-finance---)  
 [Ceros](https://github.com/BriceShatzer/job-search/blob/main/nah.md#ceros---lead-software-engineer)  
 [Check](https://github.com/BriceShatzer/job-search/blob/main/rejected.md#check---software-engineer)   
-[Codal](#codal---senior-software-engineer)  
+[Codal](#no-longer-hiring-js-devs---codal---senior-software-engineer)  
 [Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
 [Fyllo](#fyllo---senior-full-stack)  
 [Grainger](#grainger---senior-software-engineer)  
@@ -166,7 +166,7 @@ Access to One Medical
  	- hours are 9-5	
 - **Interview Process**  
   1. <strike>30 min initial - w/ [Frontend Lead](https://www.linkedin.com/in/nagaraju-s-4b3975135/)</strike>	  
-  2. coding thing?
+  2. <strike>coding thing? </strike>
   3. final round?
 
 
