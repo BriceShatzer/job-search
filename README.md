@@ -180,7 +180,7 @@ Access to One Medical
 	- Python, Django, Java, php
 - **Interview Process**  
   <strike>1. Initial Call</strike>   
-  2. Technical Screen/Code Pairing  
+  <strike>2. Technical Screen/Code Pairing</strike>  
   3. Take-Home Test  
   4. 3 1/2 hr interview  
 
