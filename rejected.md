@@ -42,3 +42,24 @@ https://www.jpmorgan.com/solutions/treasury-payments/digital-channels/concourse)
 alternative LinkedIn posts for Senior Software Engineer  
 [1](https://www.linkedin.com/jobs/view/2673554313/) | [2](https://www.linkedin.com/jobs/view/2672509332/) | [3](https://www.linkedin.com/jobs/view/2673550451/)
 
+
+## [Greenhouse Software](https://www.greenhouse.io/) - [Senior Software Engineer](https://www.greenhouse.io/careers/opportunities/job?id=2369285)
+- **Remote** 
+- via [Hired](https://hired.com/ivrs/1306587) 
+- Inti
+- **Interview Process**  
+  1. <strike>30 min informal technical screen</strike>  
+```
+Hi Brice,
+
+I hope your week is going well. I wanted to follow-up on our previous conversation and say thank you for taking the time to chat about the Senior Software Engineer opportunity.
+
+After sitting down with the team and carefully considering your background and qualifications, we have decided not to move forward with your candidacy at this time.
+
+I'm sorry things didn't work out this go-around, but your information will remain on file and if a new position opens that is a better fit, we'll reach out to you. Things are constantly evolving around here, so we’d encourage you to keep an eye on our careers page for future opportunities.*
+
+We wish you the best in your job search.
+
+Best,
+Will
+```
