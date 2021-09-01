@@ -179,8 +179,9 @@ Access to One Medical
 	- React / Redux 
 	- Python, Django, Java, php
 - **Interview Process**  
-  <strike>1. Initial Call</strike>   
-  <strike>2. Technical Screen/Code Pairing</strike>  
+  1. <strike>Initial Call</strike>   
+  2. <strike>Technical Screen/Code Pairing</strike>  
+  	  - <strike><a href="https://www.linkedin.com/in/mikerivet/">Mike Rivet</a></strike>  
   3. Take-Home Test  
   4. 3 1/2 hr interview  
 
