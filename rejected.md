@@ -43,10 +43,14 @@ alternative LinkedIn posts for Senior Software Engineer
 [1](https://www.linkedin.com/jobs/view/2673554313/) | [2](https://www.linkedin.com/jobs/view/2672509332/) | [3](https://www.linkedin.com/jobs/view/2673550451/)
 
 
+
+
 ## [Greenhouse Software](https://www.greenhouse.io/) - [Senior Software Engineer](https://www.greenhouse.io/careers/opportunities/job?id=2369285)
 - **Remote** 
 - via [Hired](https://hired.com/ivrs/1306587) 
-- Inti
+- [BuiltInNYC](https://www.builtinnyc.com/company/greenhouse-software) | [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Greenhouse-Software-EI_IE657749.11,30.htm)  
+- Hiring & Applicant Tracking Software 
+- teams: 3-6 engineers + PM + Designer + Data Scientist   
 - **Interview Process**  
   1. <strike>30 min informal technical screen</strike>  
 ```
