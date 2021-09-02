@@ -124,7 +124,7 @@
 
 
 ---
-Offers:   
+Offers<a href="#" id="offers">:</a>   
 
 **Shapeways**  
 Title: Sr. Frontend Engineer  
