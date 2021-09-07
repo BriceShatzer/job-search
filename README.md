@@ -126,7 +126,7 @@
 ---
 Offers<a href="#" id="offers">:</a>   
 
-**Shapeways**  
+**Shapeways** - Declined  
 Title: Sr. Frontend Engineer  
 Salary: $140,000  
 Options: As a Shapeways employee you are entitled to stock options pending board approval, but due to the SPAC we are unable to disclose how many at this time.  
@@ -139,20 +139,6 @@ Access to One Medical
 401K  program: SW will match 100% of the first 3% of employee contributions and 50% of the next 2%, for a total 4% employer match. Employees are required to contribute to their 401(k) to get the match.  
 
 ---
-
-
-## Fubo Gaming - Software Engineer, Web/Frontend
-- **Chicago** - [Madison & State](https://goo.gl/maps/A5QXBTCymGrEdbKs7) or [1 N Dearborn](https://goo.gl/maps/K1dQ4aQ6yMD89L7j7)
-- [Glassdoor](https://www.glassdoor.com/Overview/Working-at-FuboTV-EI_IE1006878.11,17.htm)  
-- Reached out via LinkedIn & [Hired](https://hired.com/ivrs/1301063) -> (Senior Software Engineer, Web/Frontend)
-- Online Betting alongside fuboTV
-- [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)  
-- 50 Currently growing to 85 by end of the year
-- Benefits include [FUBO](https://finance.yahoo.com/quote/FUBO) RSUs  
-- **Interview Process**  
-  1. <strike>Tech Screen</strike>  
-  2. <strike>45-1hr live coding exercise</strike>
-
 
 
 ## Grainger - [Senior Software Engineer](https://www.linkedin.com/jobs/view/2642085903/)
@@ -168,7 +154,7 @@ Access to One Medical
 - **Interview Process**  
   1. <strike>30 min initial - w/ [Frontend Lead](https://www.linkedin.com/in/nagaraju-s-4b3975135/)</strike>	  
   2. <strike>coding thing? </strike>
-  3. Final?
+  3. <strike>Final?</strike>  
   	  - [Andy Freidenfelds](https://www.linkedin.com/in/andyfreidenfelds/)-SWE IV  & [(Raj) Nagaraju Saripally](https://www.linkedin.com/in/nagaraju-s-4b3975135/)-SWE III   
   	  - [Patrick Szczypinski](https://www.linkedin.com/in/pizatski/)-Eng Manager & [Katie Nora](https://www.linkedin.com/in/kathryn-nora/)-Biz Analyst
 
@@ -204,6 +190,21 @@ Access to One Medical
   3. <strike>In-Depth w/ PM</strike> 
   4. In-depth tech screen Front-End Architect & other people
   5. CEO 
+
+
+## Fubo Gaming - Software Engineer, Web/Frontend
+- **Chicago** - [Madison & State](https://goo.gl/maps/A5QXBTCymGrEdbKs7) or [1 N Dearborn](https://goo.gl/maps/K1dQ4aQ6yMD89L7j7)
+- [Glassdoor](https://www.glassdoor.com/Overview/Working-at-FuboTV-EI_IE1006878.11,17.htm)  
+- Reached out via LinkedIn & [Hired](https://hired.com/ivrs/1301063) -> (Senior Software Engineer, Web/Frontend)
+- Online Betting alongside fuboTV
+- [Job Post](https://boards.greenhouse.io/fubogaming/jobs/3126926)  
+- 50 Currently growing to 85 by end of the year
+- Benefits include [FUBO](https://finance.yahoo.com/quote/FUBO) RSUs  
+- **Interview Process**  
+  1. <strike>Tech Screen</strike>  
+  2. <strike>45-1hr live coding exercise</strike>
+
+
 
 ## [Shapeways](https://hellofyllo.com/) - Senior Front End
 - **Remote** - NYC
