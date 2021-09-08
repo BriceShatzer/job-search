@@ -380,7 +380,7 @@ How would you develop the left navigation?
   1. Basic JavaScript/Algorithm questions w/ [Iliar Mangutov](https://www.linkedin.com/in/iliar-mangutov-93519514/)  
   2. JavaScript & React w/ [Sachin Patel](https://www.linkedin.com/in/sachinnpatel/)  
   3. Background w/ CTO [Assaf Pazner](https://www.linkedin.com/in/assafpazner/)  
-
+*"...unfortunately, they are passing. The overall feedback was positive but they have another candidate that was stronger in some areas.  The specific feedback was they liked your front-end React skills but that you lacked experience building high-performance systems, which based on your feedback, sounds like this was discussed during your conversation with Assaf."*
 
 ## Valor Labs - Full Stack Engineer
 - **Chicago** - [Hancock Building](https://goo.gl/maps/o1vCnsUbN53GVYDo8) 
