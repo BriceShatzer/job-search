@@ -67,3 +67,16 @@ We wish you the best in your job search.
 Best,
 Will
 ```
+
+
+## [Eagle Seven](https://www.eagleseven.com/) - [Senior Web Application Developer](https://www.linkedin.com/jobs/search/?f_C=1375605&geoId=92000000)
+- **Chicago** - [Union Station](https://goo.gl/maps/b7DMv4Kc7gGePdY29)
+- via recruiters (CultureFit)
+- [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Eagle-Seven-EI_IE501132.11,22.htm)  
+- Hiring & Applicant Tracking Software 
+- 15 engineers in teams of 2-6 engineers | Supporting total headcount 100 
+- **Interview Process** - All Happened Back-to-Back  
+  1. Basic JavaScript/Algorithm questions w/ [Iliar Mangutov](https://www.linkedin.com/in/iliar-mangutov-93519514/)  
+  2. JavaScript & React w/ [Sachin Patel](https://www.linkedin.com/in/sachinnpatel/)  
+  3. Background w/ CTO [Assaf Pazner](https://www.linkedin.com/in/assafpazner/)  
+*"...unfortunately, they are passing. The overall feedback was positive but they have another candidate that was stronger in some areas.  The specific feedback was they liked your front-end React skills but that you lacked experience building high-performance systems, which based on your feedback, sounds like this was discussed during your conversation with Assaf."*
