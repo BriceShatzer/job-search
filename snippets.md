@@ -14,8 +14,17 @@ I shared my frustration with something in a somewhat of a contentious manner, wh
 ...an inappropriate venue. 
 -->
 
+
+
 ### Declining Further Interviews  
 
+**∙ Late stages**  
+Thanks for reaching out. Unfortunately, I'm currently in the late stages of agreeing to role at another company.
+
+Thanks again,  
+-Brice
+
+**∙ Not a fit**  
 Thanks for reaching out. After further consideration, I don't believe that this opportunity is a good fit for me at this time. I enjoyed chatting with you and wish y'all nothing but success going forward.
 
 Thanks again,  
