@@ -122,8 +122,9 @@
     </tbody>
 </table>  
 
-
+<!--
 ---
+
 Offers<a href="#" id="offers">:</a>   
 
 **Shapeways** - Declined  
@@ -138,6 +139,18 @@ Medical, Dental, Vision tiered coverage
 Access to One Medical  
 401K  program: SW will match 100% of the first 3% of employee contributions and 50% of the next 2%, for a total 4% employer match. Employees are required to contribute to their 401(k) to get the match.  
 
+**Grainger**   
+Title: Sr. Frontend Engineer  
+Salary: $135,000  + 5% yearly target bonus 
+$10k signing bonus (not prorated)  
+Start Date: Sept 27  
+PTO: 23 days
+6 company holidays  
+Medical, Dental, Vision coverage  
+401K  program: 6% automatically
+[paycheck calculator](https://www.calculator.net/take-home-pay-calculator.html?cannualincome=135000&cpayfrequency=Bi-weekly&cfilestatus=Single&cchildren=0&cotherdep=0&cnonjobincome=0&chelddeduction=1724&cnothelddeduction=0&citemdeduction=0&chasotherjobincome=no&cjobincome2=0&cjobincome3=0&cstatetax=4.95&ccitytax=0&cselfemployed=no&printit=0&x=68&y=25)  
+
+-->
 ---
 
 
