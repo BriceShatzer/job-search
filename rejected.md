@@ -20,7 +20,15 @@ Engineering orgs: *Payroll Platform* & *Partner Applications*
   2. About five 45-60 min technical/values interviews with others on the team, including those in adjacent roles  
   3. An interview with our CEO  
   4. Reference Checks  
+```
+Thank you again for your time on the video interviews with Bryant and Shiva! They really enjoyed the conversations with you. 
+We truly appreciate your interest in Check and the time you spent with our team in the technical rounds. 
 
+Unfortunately at this time, the team has decided not to move forward in the interview process. 
+That being said, if it is okay with you, we’d like to keep your resume on file as our team continues to grow. 
+We wish you the best of luck in your future endeavors and would love to connect again for future opportunities.
+
+```
 
 
 ## JP Morgan Chase - [React.JS UI/UX Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210089927/) 
