@@ -13,7 +13,7 @@
 [Ceros](https://github.com/BriceShatzer/job-search/blob/main/nah.md#ceros---lead-software-engineer)  
 [Check](https://github.com/BriceShatzer/job-search/blob/main/rejected.md#check---software-engineer)   
 [Codal](#no-longer-hiring-js-devs---codal---senior-software-engineer)  
-[Eagle Seven](#eagle-seven---senior-web-application-developer)  
+[Eagle Seven](https://github.com/BriceShatzer/job-search/blob/main/rejected.md#eagle-seven---senior-web-application-developer)  
 [Fubo Gaming](#fubo-gaming---software-engineer-webfrontend)  
 [Fyllo](#fyllo---senior-full-stack)  
 [Grainger](#grainger---senior-software-engineer)  
@@ -31,7 +31,7 @@
 [Unqork](#unqork---senior-engineer)  
 [Valor Labs](#valor-labs---full-stack-engineer)  
 [Walmart Labs](#walmart-labs---contract---seniorstaff-front-end-react-engineers)   
-
+[Zillow](#zillow---senior-software engineer)  
 
 ---  
 
@@ -361,6 +361,24 @@ How would you develop the left navigation?
   3. 3rd interview??
 
 
+## Zillow - Senior Software Engineer
+- **Remote**
+- via [Hired](https://hired.com/ivrs/1314352#)
+- 5 engineers building stuff to support a VC org of 70ish folks
+- building internal product -> crunchbase meets pitch book
+- **Tech** 
+	- React
+	- Node.js
+	- GraphQL
+- **Interview Process**  
+  1. <strike>30 min initial call</strike>
+	  - <strike>w/ [Randy Linco]https://www.linkedin.com/in/randylinco/)</strike>
+  2. 1 hour (tech assesment or second interview?)
+	  - w/ [Chris North](https://www.linkedin.com/in/chrisno/)
+    - hackrank [link](https://hr.gs/8cd7149) 
+*Thanks for setting all of this up. Yesterday afternoon I accepted a position with another company and as such, will be withdrawing from the application process with Zillow. I appericate Randy taking the time to tell me more about the role and wish you all sucess in your search for the right canidate.  
+Thanks, -Brice*  
+
 --- 
 **Probably Rejected**  
 
@@ -382,18 +400,6 @@ How would you develop the left navigation?
 	  - <strike>w/ [Eddie Lai](https://www.linkedin.com/in/eddie-lai-3161ba27/)</strike>
   3. Final Interview (CEO?)   
 
-
-## [Eagle Seven](https://www.eagleseven.com/) - [Senior Web Application Developer](https://www.linkedin.com/jobs/search/?f_C=1375605&geoId=92000000)
-- **Chicago** - [Union Station](https://goo.gl/maps/b7DMv4Kc7gGePdY29)
-- via recruiters (CultureFit)
-- [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Eagle-Seven-EI_IE501132.11,22.htm)  
-- Hiring & Applicant Tracking Software 
-- 15 engineers in teams of 2-6 engineers | Supporting total headcount 100 
-- **Interview Process** - All Happened Back-to-Back  
-  1. Basic JavaScript/Algorithm questions w/ [Iliar Mangutov](https://www.linkedin.com/in/iliar-mangutov-93519514/)  
-  2. JavaScript & React w/ [Sachin Patel](https://www.linkedin.com/in/sachinnpatel/)  
-  3. Background w/ CTO [Assaf Pazner](https://www.linkedin.com/in/assafpazner/)  
-*"...unfortunately, they are passing. The overall feedback was positive but they have another candidate that was stronger in some areas.  The specific feedback was they liked your front-end React skills but that you lacked experience building high-performance systems, which based on your feedback, sounds like this was discussed during your conversation with Assaf."*
 
 ## Valor Labs - Full Stack Engineer
 - **Chicago** - [Hancock Building](https://goo.gl/maps/o1vCnsUbN53GVYDo8) 
