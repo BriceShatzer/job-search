@@ -31,7 +31,7 @@
 [Unqork](#unqork---senior-engineer)  
 [Valor Labs](#valor-labs---full-stack-engineer)  
 [Walmart Labs](#walmart-labs---contract---seniorstaff-front-end-react-engineers)   
-[Zillow](#zillow---senior-software engineer)  
+[Zillow](#zillow---senior-software-engineer)  
 
 
 ---  
