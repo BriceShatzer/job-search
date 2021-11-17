@@ -365,8 +365,6 @@ How would you develop the left navigation?
 ## Zillow - Senior Software Engineer
 - **Remote**
 - via [Hired](https://hired.com/ivrs/1314352#)
-- 5 engineers building stuff to support a VC org of 70ish folks
-- building internal product -> crunchbase meets pitch book
 - **Tech** 
 	- React
 	- Node.js
@@ -376,7 +374,8 @@ How would you develop the left navigation?
 	  - <strike>w/ [Randy Linco]https://www.linkedin.com/in/randylinco/)</strike>
   2. 1 hour (tech assesment or second interview?)
 	  - w/ [Chris North](https://www.linkedin.com/in/chrisno/)
-    - hackrank [link](https://hr.gs/8cd7149) 
+	  - hackrank [link](https://hr.gs/8cd7149)  
+
 *Thanks for setting all of this up. Yesterday afternoon I accepted a position with another company and as such, will be withdrawing from the application process with Zillow. I appericate Randy taking the time to tell me more about the role and wish you all sucess in your search for the right canidate.  
 Thanks, -Brice*  
 
